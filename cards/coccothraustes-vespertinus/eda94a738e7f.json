@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "016",
+  "name": "Evening Grosbeak",
+  "sci": "Coccothraustes vespertinus",
+  "type": "song",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": true
+  },
+  "hp": 31,
+  "detections": 1,
+  "best_conf": 0.8488,
+  "first_heard": "2026-05-31",
+  "attacks": [
+    {
+      "name": "Sweet Whistle",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Counter-Sing",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/coccothraustes-vespertinus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hesperiphona_vespertina_CT3.jpg/330px-Hesperiphona_vespertina_CT3.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Evening_grosbeak",
+  "flavor": "The evening grosbeak is a passerine bird in the finch family Fringillidae found in North America."
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "003",
+  "name": "Orange-crowned Warbler",
+  "sci": "Leiothlypis celata",
+  "type": "mind",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": true
+  },
+  "hp": 31,
+  "detections": 1,
+  "best_conf": 0.9266,
+  "first_heard": "2026-05-25",
+  "attacks": [
+    {
+      "name": "Acorn Barrage",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Mob Call",
+      "cost": 4,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/leiothlypis-celata.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Orange-crowned_warbler1.jpg/330px-Orange-crowned_warbler1.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Orange-crowned_warbler",
+  "flavor": "The orange-crowned warbler is a small songbird of the New World warbler family."
+}

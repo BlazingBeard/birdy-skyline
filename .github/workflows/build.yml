@@ -1,0 +1,37 @@
+name: build-birdy-skyline
+# Rebuild the static API on push + daily, committing only real changes.
+# NOTE: build.py reads ../data/birdy.db, which is gitignored. In CI there is no
+# Birdy DB, so this guards on its presence — it's meant for when you publish the
+# skyline/ folder as its own repo together with a committed registry.json, or
+# run build.py locally before pushing. Kept here as the canonical one build step.
+on:
+  push:
+    paths: ["**/*.py", "manifest.json", ".github/workflows/build.yml"]
+  schedule:
+    - cron: "17 13 * * *"   # daily 13:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Build (idempotent, stable-write)
+        run: |
+          if [ -f ../data/birdy.db ] || [ -f data/birdy.db ]; then
+            python build.py
+          else
+            echo "No birdy.db present in CI — skipping regen; serving committed registry.json."
+          fi
+      - name: Commit only real changes
+        run: |
+          git config user.name  "birdy-skyline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "skyline: rebuild $(date -u +%FT%TZ)"
+          git push || true

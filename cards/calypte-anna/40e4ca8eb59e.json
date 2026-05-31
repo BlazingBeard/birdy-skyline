@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "014",
+  "name": "Anna's Hummingbird",
+  "sci": "Calypte anna",
+  "type": "spark",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 35,
+  "detections": 5,
+  "best_conf": 0.8315,
+  "first_heard": "2026-05-30",
+  "attacks": [
+    {
+      "name": "Pivot Dart",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Iridescent Flash",
+      "cost": 4,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/calypte-anna.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anna%27s_hummingbird.jpg/330px-Anna%27s_hummingbird.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Anna's_hummingbird",
+  "flavor": "Anna's hummingbird is a North American species of hummingbird named after Anna Masséna, Duchess of Rivoli."
+}

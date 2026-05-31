@@ -1,0 +1,124 @@
+{
+  "schema": "rapp-static-api-status/1.0",
+  "generated": "2026-05-31T19:42:41Z",
+  "summary": {
+    "species": 16,
+    "frames": 7,
+    "detections": 285,
+    "holo_rares": 6
+  },
+  "cards": [
+    {
+      "name": "Olive-sided Flycatcher",
+      "sci": "Contopus cooperi",
+      "type": "aerial",
+      "rarity": "holo-rare",
+      "serial": "e76d9f186909"
+    },
+    {
+      "name": "MacGillivray's Warbler",
+      "sci": "Geothlypis tolmiei",
+      "type": "song",
+      "rarity": "rare",
+      "serial": "26edf2971a51"
+    },
+    {
+      "name": "Orange-crowned Warbler",
+      "sci": "Leiothlypis celata",
+      "type": "mind",
+      "rarity": "uncommon",
+      "serial": "21c1f7f8074e"
+    },
+    {
+      "name": "California Scrub-Jay",
+      "sci": "Aphelocoma californica",
+      "type": "mind",
+      "rarity": "rare",
+      "serial": "3eb252657bf1"
+    },
+    {
+      "name": "Black-headed Grosbeak",
+      "sci": "Pheucticus melanocephalus",
+      "type": "song",
+      "rarity": "uncommon",
+      "serial": "401d844757e6"
+    },
+    {
+      "name": "Steller's Jay",
+      "sci": "Cyanocitta stelleri",
+      "type": "mind",
+      "rarity": "holo-rare",
+      "serial": "5e05df338c55"
+    },
+    {
+      "name": "Warbling Vireo",
+      "sci": "Vireo gilvus",
+      "type": "song",
+      "rarity": "rare",
+      "serial": "b2a480219eb3"
+    },
+    {
+      "name": "Song Sparrow",
+      "sci": "Melospiza melodia",
+      "type": "song",
+      "rarity": "uncommon",
+      "serial": "0e605a01599b"
+    },
+    {
+      "name": "Spotted Towhee",
+      "sci": "Pipilo maculatus",
+      "type": "song",
+      "rarity": "rare",
+      "serial": "4564d17f1792"
+    },
+    {
+      "name": "Nashville Warbler",
+      "sci": "Leiothlypis ruficapilla",
+      "type": "song",
+      "rarity": "common",
+      "serial": "bb0172b49c6f"
+    },
+    {
+      "name": "Rock Pigeon",
+      "sci": "Columba livia",
+      "type": "ground",
+      "rarity": "uncommon",
+      "serial": "489ba19d44d9"
+    },
+    {
+      "name": "Rufous Hummingbird",
+      "sci": "Selasphorus rufus",
+      "type": "spark",
+      "rarity": "uncommon",
+      "serial": "739546f08078"
+    },
+    {
+      "name": "Western Tanager",
+      "sci": "Piranga ludoviciana",
+      "type": "song",
+      "rarity": "uncommon",
+      "serial": "ac80d7f94762"
+    },
+    {
+      "name": "Anna's Hummingbird",
+      "sci": "Calypte anna",
+      "type": "spark",
+      "rarity": "common",
+      "serial": "40e4ca8eb59e"
+    },
+    {
+      "name": "Western Wood-Pewee",
+      "sci": "Contopus sordidulus",
+      "type": "aerial",
+      "rarity": "uncommon",
+      "serial": "e7e3ae4d62a9"
+    },
+    {
+      "name": "Evening Grosbeak",
+      "sci": "Coccothraustes vespertinus",
+      "type": "song",
+      "rarity": "common",
+      "serial": "eda94a738e7f"
+    }
+  ]
+}

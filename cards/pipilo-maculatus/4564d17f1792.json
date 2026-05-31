@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "009",
+  "name": "Spotted Towhee",
+  "sci": "Pipilo maculatus",
+  "type": "song",
+  "rarity": {
+    "tier": "rare",
+    "stars": 2,
+    "elusive": false
+  },
+  "hp": 44,
+  "detections": 14,
+  "best_conf": 0.9709,
+  "first_heard": "2026-05-26",
+  "attacks": [
+    {
+      "name": "Trill Cascade",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Counter-Sing",
+      "cost": 4,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/pipilo-maculatus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Spotted_Towhee_%2832684403303%29.jpg/330px-Spotted_Towhee_%2832684403303%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Spotted_towhee",
+  "flavor": "The spotted towhee is a large New World sparrow. The taxonomy of the towhees has been debated in recent decades, and until 1995 this bird and the eastern towhee were considered a single species, then named rufous-sided towhee. Another outdated name for the spotted towhee is the Oregon towhee. The call may be harsher..."
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "010",
+  "name": "Nashville Warbler",
+  "sci": "Leiothlypis ruficapilla",
+  "type": "song",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": true
+  },
+  "hp": 31,
+  "detections": 1,
+  "best_conf": 0.8053,
+  "first_heard": "2026-05-26",
+  "attacks": [
+    {
+      "name": "Sweet Whistle",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Trill Cascade",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/leiothlypis-ruficapilla.png",
+  "art": null,
+  "wiki_url": null,
+  "flavor": ""
+}

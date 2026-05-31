@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "005",
+  "name": "Black-headed Grosbeak",
+  "sci": "Pheucticus melanocephalus",
+  "type": "song",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 46,
+  "detections": 16,
+  "best_conf": 0.9471,
+  "first_heard": "2026-05-26",
+  "attacks": [
+    {
+      "name": "Counter-Sing",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Sweet Whistle",
+      "cost": 4,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/pheucticus-melanocephalus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pheucticus_melanocephalus_-California%2C_USA-8.jpg/330px-Pheucticus_melanocephalus_-California%2C_USA-8.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Black-headed_grosbeak",
+  "flavor": "The black-headed grosbeak is a medium-sized, seed-eating bird in the family Cardinalidae. It is sometimes considered conspecific with the rose-breasted grosbeak with which it hybridizes on the American Great Plains."
+}

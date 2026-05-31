@@ -1,0 +1,608 @@
+{
+  "schema": "rapp-static-api/1.0",
+  "name": "birdy-skyline",
+  "generated": "2026-05-31T19:42:41Z",
+  "raw_base": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main",
+  "summary": {
+    "species": 16,
+    "frames": 7,
+    "detections": 285,
+    "holo_rares": 6
+  },
+  "badge": {
+    "schemaVersion": 1,
+    "label": "🐦 birds",
+    "message": "16 species",
+    "color": "brightgreen"
+  },
+  "cards": [
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "001",
+      "name": "Olive-sided Flycatcher",
+      "sci": "Contopus cooperi",
+      "type": "aerial",
+      "rarity": {
+        "tier": "holo-rare",
+        "stars": 3,
+        "elusive": false
+      },
+      "hp": 118,
+      "detections": 88,
+      "best_conf": 0.9938,
+      "first_heard": "2026-05-25",
+      "attacks": [
+        {
+          "name": "Hawk & Sally",
+          "cost": 1,
+          "damage": 10
+        },
+        {
+          "name": "Snap Strike",
+          "cost": 3,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/contopus-cooperi.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Olive-sided_Flycatcher.jpg/330px-Olive-sided_Flycatcher.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Olive-sided_flycatcher",
+      "flavor": "The olive-sided flycatcher is a small to medium sized passerine bird in the family Tyrannidae, the tyrant flycatcher family. It is a migratory species that travels from South America to North America to breed during the summer. It is an agile flyer and mainly consumes flying insects caught in flight. Since 2016, thi...",
+      "serial": "e76d9f186909",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/contopus-cooperi/e76d9f186909.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "002",
+      "name": "MacGillivray's Warbler",
+      "sci": "Geothlypis tolmiei",
+      "type": "song",
+      "rarity": {
+        "tier": "rare",
+        "stars": 2,
+        "elusive": false
+      },
+      "hp": 77,
+      "detections": 47,
+      "best_conf": 0.9834,
+      "first_heard": "2026-05-25",
+      "attacks": [
+        {
+          "name": "Trill Cascade",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Dawn Serenade",
+          "cost": 2,
+          "damage": 80
+        }
+      ],
+      "spectrogram": "assets/spectrograms/geothlypis-tolmiei.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Geothlypis_tolmiei_Hungry_Horse_MT_1%2C_crop.jpg/330px-Geothlypis_tolmiei_Hungry_Horse_MT_1%2C_crop.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/MacGillivray's_warbler",
+      "flavor": "MacGillivray's warbler is a species of New World warbler. These birds are sluggish and heavy warblers, preferring to spend most of their time on, or near the ground, except when singing.",
+      "serial": "26edf2971a51",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/geothlypis-tolmiei/26edf2971a51.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "003",
+      "name": "Orange-crowned Warbler",
+      "sci": "Leiothlypis celata",
+      "type": "mind",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": true
+      },
+      "hp": 31,
+      "detections": 1,
+      "best_conf": 0.9266,
+      "first_heard": "2026-05-25",
+      "attacks": [
+        {
+          "name": "Acorn Barrage",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Mob Call",
+          "cost": 4,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/leiothlypis-celata.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Orange-crowned_warbler1.jpg/330px-Orange-crowned_warbler1.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Orange-crowned_warbler",
+      "flavor": "The orange-crowned warbler is a small songbird of the New World warbler family.",
+      "serial": "21c1f7f8074e",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/leiothlypis-celata/21c1f7f8074e.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "004",
+      "name": "California Scrub-Jay",
+      "sci": "Aphelocoma californica",
+      "type": "mind",
+      "rarity": {
+        "tier": "rare",
+        "stars": 2,
+        "elusive": false
+      },
+      "hp": 39,
+      "detections": 9,
+      "best_conf": 0.9535,
+      "first_heard": "2026-05-25",
+      "attacks": [
+        {
+          "name": "Mob Call",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Acorn Barrage",
+          "cost": 3,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/aphelocoma-californica.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/California_Scrub_Jay%2C_Richmond%2C_Contra_Costa%2C_California_%2830644196597%29.jpg/330px-California_Scrub_Jay%2C_Richmond%2C_Contra_Costa%2C_California_%2830644196597%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/California_scrub_jay",
+      "flavor": "The California scrub jay is a species of scrub jay native to western North America. It ranges from southern British Columbia throughout California and western Nevada near Reno to west of the Sierra Nevada. The California scrub jay was once lumped with Woodhouse's scrub jay and collectively called the western scrub j...",
+      "serial": "3eb252657bf1",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/aphelocoma-californica/3eb252657bf1.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "005",
+      "name": "Black-headed Grosbeak",
+      "sci": "Pheucticus melanocephalus",
+      "type": "song",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 46,
+      "detections": 16,
+      "best_conf": 0.9471,
+      "first_heard": "2026-05-26",
+      "attacks": [
+        {
+          "name": "Counter-Sing",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Sweet Whistle",
+          "cost": 4,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/pheucticus-melanocephalus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pheucticus_melanocephalus_-California%2C_USA-8.jpg/330px-Pheucticus_melanocephalus_-California%2C_USA-8.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Black-headed_grosbeak",
+      "flavor": "The black-headed grosbeak is a medium-sized, seed-eating bird in the family Cardinalidae. It is sometimes considered conspecific with the rose-breasted grosbeak with which it hybridizes on the American Great Plains.",
+      "serial": "401d844757e6",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/pheucticus-melanocephalus/401d844757e6.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "006",
+      "name": "Steller's Jay",
+      "sci": "Cyanocitta stelleri",
+      "type": "mind",
+      "rarity": {
+        "tier": "holo-rare",
+        "stars": 3,
+        "elusive": false
+      },
+      "hp": 77,
+      "detections": 47,
+      "best_conf": 0.9958,
+      "first_heard": "2026-05-26",
+      "attacks": [
+        {
+          "name": "Mimic Cry",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Acorn Barrage",
+          "cost": 3,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/cyanocitta-stelleri.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Steller%27s_Jay_flagstaff_arizona.jpg/330px-Steller%27s_Jay_flagstaff_arizona.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Steller's_jay",
+      "flavor": "Steller's jay is a bird native to western North America and the mountains of Central America, closely related to the blue jay found in eastern North America. It is the only crested jay west of the Rocky Mountains. It is also sometimes colloquially called a \"blue jay\" in the Pacific Northwest, but is distinct from th...",
+      "serial": "5e05df338c55",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/cyanocitta-stelleri/5e05df338c55.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "007",
+      "name": "Warbling Vireo",
+      "sci": "Vireo gilvus",
+      "type": "song",
+      "rarity": {
+        "tier": "rare",
+        "stars": 2,
+        "elusive": false
+      },
+      "hp": 49,
+      "detections": 19,
+      "best_conf": 0.9636,
+      "first_heard": "2026-05-26",
+      "attacks": [
+        {
+          "name": "Trill Cascade",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Counter-Sing",
+          "cost": 2,
+          "damage": 80
+        }
+      ],
+      "spectrogram": "assets/spectrograms/vireo-gilvus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Warbling_vireo_%2882141%29.jpg/330px-Warbling_vireo_%2882141%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Warbling_vireo",
+      "flavor": "The warbling vireo is a small North American songbird.",
+      "serial": "b2a480219eb3",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/vireo-gilvus/b2a480219eb3.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "008",
+      "name": "Song Sparrow",
+      "sci": "Melospiza melodia",
+      "type": "song",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 35,
+      "detections": 5,
+      "best_conf": 0.9097,
+      "first_heard": "2026-05-26",
+      "attacks": [
+        {
+          "name": "Trill Cascade",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Counter-Sing",
+          "cost": 4,
+          "damage": 80
+        }
+      ],
+      "spectrogram": "assets/spectrograms/melospiza-melodia.png",
+      "art": null,
+      "wiki_url": null,
+      "flavor": "",
+      "serial": "0e605a01599b",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/melospiza-melodia/0e605a01599b.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "009",
+      "name": "Spotted Towhee",
+      "sci": "Pipilo maculatus",
+      "type": "song",
+      "rarity": {
+        "tier": "rare",
+        "stars": 2,
+        "elusive": false
+      },
+      "hp": 44,
+      "detections": 14,
+      "best_conf": 0.9709,
+      "first_heard": "2026-05-26",
+      "attacks": [
+        {
+          "name": "Trill Cascade",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Counter-Sing",
+          "cost": 4,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/pipilo-maculatus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Spotted_Towhee_%2832684403303%29.jpg/330px-Spotted_Towhee_%2832684403303%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Spotted_towhee",
+      "flavor": "The spotted towhee is a large New World sparrow. The taxonomy of the towhees has been debated in recent decades, and until 1995 this bird and the eastern towhee were considered a single species, then named rufous-sided towhee. Another outdated name for the spotted towhee is the Oregon towhee. The call may be harsher...",
+      "serial": "4564d17f1792",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/pipilo-maculatus/4564d17f1792.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "010",
+      "name": "Nashville Warbler",
+      "sci": "Leiothlypis ruficapilla",
+      "type": "song",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": true
+      },
+      "hp": 31,
+      "detections": 1,
+      "best_conf": 0.8053,
+      "first_heard": "2026-05-26",
+      "attacks": [
+        {
+          "name": "Sweet Whistle",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Trill Cascade",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/leiothlypis-ruficapilla.png",
+      "art": null,
+      "wiki_url": null,
+      "flavor": "",
+      "serial": "bb0172b49c6f",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/leiothlypis-ruficapilla/bb0172b49c6f.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "011",
+      "name": "Rock Pigeon",
+      "sci": "Columba livia",
+      "type": "ground",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 33,
+      "detections": 3,
+      "best_conf": 0.8655,
+      "first_heard": "2026-05-27",
+      "attacks": [
+        {
+          "name": "Soft Coo",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Low Strut",
+          "cost": 2,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/columba-livia.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Rock_dove",
+      "flavor": "The rock dove, also known as the common pigeon or rock pigeon, is a member of the bird family Columbidae. In common usage, it is often simply referred to as the \"pigeon\", although the rock dove is the wild form of the bird; the pigeons familiar to most people are the domesticated forms of the wild rock dove.",
+      "serial": "489ba19d44d9",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/columba-livia/489ba19d44d9.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "012",
+      "name": "Rufous Hummingbird",
+      "sci": "Selasphorus rufus",
+      "type": "spark",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 40,
+      "detections": 10,
+      "best_conf": 0.8955,
+      "first_heard": "2026-05-27",
+      "attacks": [
+        {
+          "name": "Hover Buzz",
+          "cost": 1,
+          "damage": 10
+        },
+        {
+          "name": "Iridescent Flash",
+          "cost": 4,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/selasphorus-rufus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rufous_Hummingbird%2C_male_01.jpg/330px-Rufous_Hummingbird%2C_male_01.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Rufous_hummingbird",
+      "flavor": "The rufous hummingbird is a small hummingbird, about 8 cm (3 in) long with a long, straight and slender bill. These birds are known for their extraordinary flight skills, flying 3,200 kilometres during their migratory transits. It is one of nine species in the genus Selasphorus.",
+      "serial": "739546f08078",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/selasphorus-rufus/739546f08078.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "013",
+      "name": "Western Tanager",
+      "sci": "Piranga ludoviciana",
+      "type": "song",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 37,
+      "detections": 7,
+      "best_conf": 0.9025,
+      "first_heard": "2026-05-30",
+      "attacks": [
+        {
+          "name": "Dawn Serenade",
+          "cost": 1,
+          "damage": 10
+        },
+        {
+          "name": "Counter-Sing",
+          "cost": 3,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/piranga-ludoviciana.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Western_Tanager_%28male%29.jpg/330px-Western_Tanager_%28male%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Western_tanager",
+      "flavor": "The western tanager is a medium-sized American songbird. Formerly placed in the tanager family (Thraupidae), it and other members of its genus are classified in the cardinal family (Cardinalidae). The species' plumage and vocalizations are similar to other members of the cardinal family.",
+      "serial": "ac80d7f94762",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/piranga-ludoviciana/ac80d7f94762.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "014",
+      "name": "Anna's Hummingbird",
+      "sci": "Calypte anna",
+      "type": "spark",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 35,
+      "detections": 5,
+      "best_conf": 0.8315,
+      "first_heard": "2026-05-30",
+      "attacks": [
+        {
+          "name": "Pivot Dart",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Iridescent Flash",
+          "cost": 4,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/calypte-anna.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anna%27s_hummingbird.jpg/330px-Anna%27s_hummingbird.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Anna's_hummingbird",
+      "flavor": "Anna's hummingbird is a North American species of hummingbird named after Anna Masséna, Duchess of Rivoli.",
+      "serial": "40e4ca8eb59e",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/calypte-anna/40e4ca8eb59e.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "015",
+      "name": "Western Wood-Pewee",
+      "sci": "Contopus sordidulus",
+      "type": "aerial",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 32,
+      "detections": 2,
+      "best_conf": 0.9214,
+      "first_heard": "2026-05-30",
+      "attacks": [
+        {
+          "name": "Wing Flick",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Snap Strike",
+          "cost": 3,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/contopus-sordidulus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg/330px-Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Western_wood_pewee",
+      "flavor": "The western wood pewee is a small tyrant flycatcher.",
+      "serial": "e7e3ae4d62a9",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/contopus-sordidulus/e7e3ae4d62a9.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "016",
+      "name": "Evening Grosbeak",
+      "sci": "Coccothraustes vespertinus",
+      "type": "song",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": true
+      },
+      "hp": 31,
+      "detections": 1,
+      "best_conf": 0.8488,
+      "first_heard": "2026-05-31",
+      "attacks": [
+        {
+          "name": "Sweet Whistle",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Counter-Sing",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/coccothraustes-vespertinus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hesperiphona_vespertina_CT3.jpg/330px-Hesperiphona_vespertina_CT3.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Evening_grosbeak",
+      "flavor": "The evening grosbeak is a passerine bird in the finch family Fringillidae found in North America.",
+      "serial": "eda94a738e7f",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/coccothraustes-vespertinus/eda94a738e7f.json"
+    }
+  ],
+  "frames": [
+    {
+      "date": "2026-05-25",
+      "sha8": "9cd4853b9907",
+      "detections": 20,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-05-25/9cd4853b9907.json"
+    },
+    {
+      "date": "2026-05-26",
+      "sha8": "68e1a79bbd02",
+      "detections": 53,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-05-26/68e1a79bbd02.json"
+    },
+    {
+      "date": "2026-05-27",
+      "sha8": "c7c31d74334c",
+      "detections": 66,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-05-27/c7c31d74334c.json"
+    },
+    {
+      "date": "2026-05-28",
+      "sha8": "372ce449e662",
+      "detections": 13,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-05-28/372ce449e662.json"
+    },
+    {
+      "date": "2026-05-29",
+      "sha8": "c657b8121fd2",
+      "detections": 57,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-05-29/c657b8121fd2.json"
+    },
+    {
+      "date": "2026-05-30",
+      "sha8": "700937852737",
+      "detections": 43,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-05-30/700937852737.json"
+    },
+    {
+      "date": "2026-05-31",
+      "sha8": "0883a5de9bc8",
+      "detections": 33,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-05-31/0883a5de9bc8.json"
+    }
+  ]
+}

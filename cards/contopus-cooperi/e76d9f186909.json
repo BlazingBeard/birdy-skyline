@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "001",
+  "name": "Olive-sided Flycatcher",
+  "sci": "Contopus cooperi",
+  "type": "aerial",
+  "rarity": {
+    "tier": "holo-rare",
+    "stars": 3,
+    "elusive": false
+  },
+  "hp": 118,
+  "detections": 88,
+  "best_conf": 0.9938,
+  "first_heard": "2026-05-25",
+  "attacks": [
+    {
+      "name": "Hawk & Sally",
+      "cost": 1,
+      "damage": 10
+    },
+    {
+      "name": "Snap Strike",
+      "cost": 3,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/contopus-cooperi.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Olive-sided_Flycatcher.jpg/330px-Olive-sided_Flycatcher.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Olive-sided_flycatcher",
+  "flavor": "The olive-sided flycatcher is a small to medium sized passerine bird in the family Tyrannidae, the tyrant flycatcher family. It is a migratory species that travels from South America to North America to breed during the summer. It is an agile flyer and mainly consumes flying insects caught in flight. Since 2016, thi..."
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "007",
+  "name": "Warbling Vireo",
+  "sci": "Vireo gilvus",
+  "type": "song",
+  "rarity": {
+    "tier": "rare",
+    "stars": 2,
+    "elusive": false
+  },
+  "hp": 49,
+  "detections": 19,
+  "best_conf": 0.9636,
+  "first_heard": "2026-05-26",
+  "attacks": [
+    {
+      "name": "Trill Cascade",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Counter-Sing",
+      "cost": 2,
+      "damage": 80
+    }
+  ],
+  "spectrogram": "assets/spectrograms/vireo-gilvus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Warbling_vireo_%2882141%29.jpg/330px-Warbling_vireo_%2882141%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Warbling_vireo",
+  "flavor": "The warbling vireo is a small North American songbird."
+}

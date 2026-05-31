@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "006",
+  "name": "Steller's Jay",
+  "sci": "Cyanocitta stelleri",
+  "type": "mind",
+  "rarity": {
+    "tier": "holo-rare",
+    "stars": 3,
+    "elusive": false
+  },
+  "hp": 77,
+  "detections": 47,
+  "best_conf": 0.9958,
+  "first_heard": "2026-05-26",
+  "attacks": [
+    {
+      "name": "Mimic Cry",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Acorn Barrage",
+      "cost": 3,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/cyanocitta-stelleri.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Steller%27s_Jay_flagstaff_arizona.jpg/330px-Steller%27s_Jay_flagstaff_arizona.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Steller's_jay",
+  "flavor": "Steller's jay is a bird native to western North America and the mountains of Central America, closely related to the blue jay found in eastern North America. It is the only crested jay west of the Rocky Mountains. It is also sometimes colloquially called a \"blue jay\" in the Pacific Northwest, but is distinct from th..."
+}

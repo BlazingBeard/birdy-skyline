@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "012",
+  "name": "Rufous Hummingbird",
+  "sci": "Selasphorus rufus",
+  "type": "spark",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 40,
+  "detections": 10,
+  "best_conf": 0.8955,
+  "first_heard": "2026-05-27",
+  "attacks": [
+    {
+      "name": "Hover Buzz",
+      "cost": 1,
+      "damage": 10
+    },
+    {
+      "name": "Iridescent Flash",
+      "cost": 4,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/selasphorus-rufus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rufous_Hummingbird%2C_male_01.jpg/330px-Rufous_Hummingbird%2C_male_01.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Rufous_hummingbird",
+  "flavor": "The rufous hummingbird is a small hummingbird, about 8 cm (3 in) long with a long, straight and slender bill. These birds are known for their extraordinary flight skills, flying 3,200 kilometres during their migratory transits. It is one of nine species in the genus Selasphorus."
+}

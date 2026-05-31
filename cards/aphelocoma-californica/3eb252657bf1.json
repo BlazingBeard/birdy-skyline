@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "004",
+  "name": "California Scrub-Jay",
+  "sci": "Aphelocoma californica",
+  "type": "mind",
+  "rarity": {
+    "tier": "rare",
+    "stars": 2,
+    "elusive": false
+  },
+  "hp": 39,
+  "detections": 9,
+  "best_conf": 0.9535,
+  "first_heard": "2026-05-25",
+  "attacks": [
+    {
+      "name": "Mob Call",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Acorn Barrage",
+      "cost": 3,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/aphelocoma-californica.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/California_Scrub_Jay%2C_Richmond%2C_Contra_Costa%2C_California_%2830644196597%29.jpg/330px-California_Scrub_Jay%2C_Richmond%2C_Contra_Costa%2C_California_%2830644196597%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/California_scrub_jay",
+  "flavor": "The California scrub jay is a species of scrub jay native to western North America. It ranges from southern British Columbia throughout California and western Nevada near Reno to west of the Sierra Nevada. The California scrub jay was once lumped with Woodhouse's scrub jay and collectively called the western scrub j..."
+}

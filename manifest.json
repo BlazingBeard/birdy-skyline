@@ -1,0 +1,17 @@
+{
+  "schema": "rapp-static-api/1.0",
+  "name": "birdy-skyline",
+  "raw_base": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main",
+  "source": "Birdy life list (local BirdNET detector)",
+  "entries": [
+    {
+      "name": "registry.json",
+      "sources": [
+        {
+          "label": "primary",
+          "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/registry.json"
+        }
+      ]
+    }
+  ]
+}

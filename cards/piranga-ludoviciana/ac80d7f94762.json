@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "013",
+  "name": "Western Tanager",
+  "sci": "Piranga ludoviciana",
+  "type": "song",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 37,
+  "detections": 7,
+  "best_conf": 0.9025,
+  "first_heard": "2026-05-30",
+  "attacks": [
+    {
+      "name": "Dawn Serenade",
+      "cost": 1,
+      "damage": 10
+    },
+    {
+      "name": "Counter-Sing",
+      "cost": 3,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/piranga-ludoviciana.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Western_Tanager_%28male%29.jpg/330px-Western_Tanager_%28male%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Western_tanager",
+  "flavor": "The western tanager is a medium-sized American songbird. Formerly placed in the tanager family (Thraupidae), it and other members of its genus are classified in the cardinal family (Cardinalidae). The species' plumage and vocalizations are similar to other members of the cardinal family."
+}
