@@ -263,7 +263,11 @@ function cardEl(c){
      </div>
    </div>`;
   const card=slot.querySelector(".card");
-  card.addEventListener("click",()=>card.classList.toggle("flip"));
+  card.addEventListener("click",()=>{
+    const flipped=card.classList.toggle("flip");
+    // inline transform from pointermove would otherwise override the .flip CSS
+    card.style.transform=flipped?"rotateY(180deg)":"";
+  });
   // 3D tilt + glare follow
   card.addEventListener("pointermove",e=>{
     if(card.classList.contains("flip"))return;
