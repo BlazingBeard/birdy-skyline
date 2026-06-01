@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "011",
+  "name": "Rock Pigeon",
+  "sci": "Columba livia",
+  "type": "ground",
+  "rarity": {
+    "tier": "rare",
+    "stars": 2,
+    "elusive": false
+  },
+  "hp": 49,
+  "detections": 19,
+  "best_conf": 0.9663,
+  "first_heard": "2026-05-27",
+  "attacks": [
+    {
+      "name": "Soft Coo",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Low Strut",
+      "cost": 2,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/columba-livia.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Rock_dove",
+  "flavor": "The rock dove, also known as the common pigeon or rock pigeon, is a member of the bird family Columbidae. In common usage, it is often simply referred to as the \"pigeon\", although the rock dove is the wild form of the bird; the pigeons familiar to most people are the domesticated forms of the wild rock dove."
+}

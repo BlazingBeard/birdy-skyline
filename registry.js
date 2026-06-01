@@ -1,18 +1,18 @@
 window.BIRDY_REGISTRY = {
   "schema": "rapp-static-api/1.0",
   "name": "birdy-skyline",
-  "generated": "2026-05-31T19:42:41Z",
+  "generated": "2026-06-01T15:53:15Z",
   "raw_base": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main",
   "summary": {
-    "species": 16,
-    "frames": 7,
-    "detections": 285,
-    "holo_rares": 6
+    "species": 17,
+    "frames": 8,
+    "detections": 476,
+    "holo_rares": 7
   },
   "badge": {
     "schemaVersion": 1,
     "label": "🐦 birds",
-    "message": "16 species",
+    "message": "17 species",
     "color": "brightgreen"
   },
   "cards": [
@@ -27,8 +27,8 @@ window.BIRDY_REGISTRY = {
         "stars": 3,
         "elusive": false
       },
-      "hp": 118,
-      "detections": 88,
+      "hp": 147,
+      "detections": 117,
       "best_conf": 0.9938,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -61,8 +61,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 77,
-      "detections": 47,
+      "hp": 124,
+      "detections": 94,
       "best_conf": 0.9834,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -129,8 +129,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 39,
-      "detections": 9,
+      "hp": 40,
+      "detections": 10,
       "best_conf": 0.9535,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -163,8 +163,8 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 46,
-      "detections": 16,
+      "hp": 60,
+      "detections": 30,
       "best_conf": 0.9471,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -197,8 +197,8 @@ window.BIRDY_REGISTRY = {
         "stars": 3,
         "elusive": false
       },
-      "hp": 77,
-      "detections": 47,
+      "hp": 98,
+      "detections": 68,
       "best_conf": 0.9958,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -231,8 +231,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 49,
-      "detections": 19,
+      "hp": 80,
+      "detections": 50,
       "best_conf": 0.9636,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -299,8 +299,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 44,
-      "detections": 14,
+      "hp": 46,
+      "detections": 16,
       "best_conf": 0.9709,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -363,13 +363,13 @@ window.BIRDY_REGISTRY = {
       "sci": "Columba livia",
       "type": "ground",
       "rarity": {
-        "tier": "uncommon",
-        "stars": 1,
+        "tier": "rare",
+        "stars": 2,
         "elusive": false
       },
-      "hp": 33,
-      "detections": 3,
-      "best_conf": 0.8655,
+      "hp": 49,
+      "detections": 19,
+      "best_conf": 0.9663,
       "first_heard": "2026-05-27",
       "attacks": [
         {
@@ -387,8 +387,8 @@ window.BIRDY_REGISTRY = {
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/Rock_dove",
       "flavor": "The rock dove, also known as the common pigeon or rock pigeon, is a member of the bird family Columbidae. In common usage, it is often simply referred to as the \"pigeon\", although the rock dove is the wild form of the bird; the pigeons familiar to most people are the domesticated forms of the wild rock dove.",
-      "serial": "489ba19d44d9",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/columba-livia/489ba19d44d9.json"
+      "serial": "c3ea76143dfe",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/columba-livia/c3ea76143dfe.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -401,8 +401,8 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 40,
-      "detections": 10,
+      "hp": 46,
+      "detections": 16,
       "best_conf": 0.8955,
       "first_heard": "2026-05-27",
       "attacks": [
@@ -435,9 +435,9 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 37,
-      "detections": 7,
-      "best_conf": 0.9025,
+      "hp": 41,
+      "detections": 11,
+      "best_conf": 0.9083,
       "first_heard": "2026-05-30",
       "attacks": [
         {
@@ -503,8 +503,8 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 32,
-      "detections": 2,
+      "hp": 36,
+      "detections": 6,
       "best_conf": 0.9214,
       "first_heard": "2026-05-30",
       "attacks": [
@@ -559,6 +559,40 @@ window.BIRDY_REGISTRY = {
       "flavor": "The evening grosbeak is a passerine bird in the finch family Fringillidae found in North America.",
       "serial": "eda94a738e7f",
       "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/coccothraustes-vespertinus/eda94a738e7f.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "017",
+      "name": "Swainson's Thrush",
+      "sci": "Catharus ustulatus",
+      "type": "song",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 33,
+      "detections": 3,
+      "best_conf": 0.8062,
+      "first_heard": "2026-06-01",
+      "attacks": [
+        {
+          "name": "Trill Cascade",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Dawn Serenade",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/catharus-ustulatus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Catharus_ustulatus_-North_Dakota-8a.jpg/330px-Catharus_ustulatus_-North_Dakota-8a.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Swainson's_thrush",
+      "flavor": "Swainson's thrush, also called olive-backed thrush, russet-backed thrush, and salmonberry bird is a medium-sized thrush. It is a member of genus Catharus and is typical of it in terms of its subdued coloration and beautiful, ascending flute-like voice. Swainson's thrush was named after William Swainson, an English o...",
+      "serial": "c106ebecb7f6",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/catharus-ustulatus/c106ebecb7f6.json"
     }
   ],
   "frames": [
@@ -600,9 +634,15 @@ window.BIRDY_REGISTRY = {
     },
     {
       "date": "2026-05-31",
-      "sha8": "0883a5de9bc8",
-      "detections": 33,
-      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-05-31/0883a5de9bc8.json"
+      "sha8": "f5d8dd9bbd6a",
+      "detections": 40,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-05-31/f5d8dd9bbd6a.json"
+    },
+    {
+      "date": "2026-06-01",
+      "sha8": "8a7a7cf25c0e",
+      "detections": 184,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-01/8a7a7cf25c0e.json"
     }
   ]
 };

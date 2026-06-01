@@ -1,11 +1,11 @@
 {
   "schema": "rapp-static-api-status/1.0",
-  "generated": "2026-05-31T19:42:41Z",
+  "generated": "2026-06-01T15:53:15Z",
   "summary": {
-    "species": 16,
-    "frames": 7,
-    "detections": 285,
-    "holo_rares": 6
+    "species": 17,
+    "frames": 8,
+    "detections": 476,
+    "holo_rares": 7
   },
   "cards": [
     {
@@ -82,8 +82,8 @@
       "name": "Rock Pigeon",
       "sci": "Columba livia",
       "type": "ground",
-      "rarity": "uncommon",
-      "serial": "489ba19d44d9"
+      "rarity": "rare",
+      "serial": "c3ea76143dfe"
     },
     {
       "name": "Rufous Hummingbird",
@@ -119,6 +119,13 @@
       "type": "song",
       "rarity": "common",
       "serial": "eda94a738e7f"
+    },
+    {
+      "name": "Swainson's Thrush",
+      "sci": "Catharus ustulatus",
+      "type": "song",
+      "rarity": "common",
+      "serial": "c106ebecb7f6"
     }
   ]
 }
