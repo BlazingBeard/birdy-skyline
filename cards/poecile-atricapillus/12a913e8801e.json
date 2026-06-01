@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "018",
+  "name": "Black-capped Chickadee",
+  "sci": "Poecile atricapillus",
+  "type": "tiny",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 36,
+  "detections": 6,
+  "best_conf": 0.8473,
+  "first_heard": "2026-06-01",
+  "attacks": [
+    {
+      "name": "Chickadee Scold",
+      "cost": 1,
+      "damage": 10
+    },
+    {
+      "name": "Seed Stash",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/poecile-atricapillus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Poecile-atricapilla-001.jpg/330px-Poecile-atricapilla-001.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Black-capped_chickadee",
+  "flavor": "The black-capped chickadee is a small, nonmigratory, North American passerine bird that lives in deciduous and mixed forests. It is a member of the Paridae family, also known as tits. It has a distinct black cap on its head, a black bib underneath, and white cheeks. It has a white belly, buff sides, and grey wings,..."
+}

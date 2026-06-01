@@ -1,18 +1,18 @@
 window.BIRDY_REGISTRY = {
   "schema": "rapp-static-api/1.0",
   "name": "birdy-skyline",
-  "generated": "2026-06-01T15:53:15Z",
+  "generated": "2026-06-01T17:25:18Z",
   "raw_base": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main",
   "summary": {
-    "species": 17,
+    "species": 19,
     "frames": 8,
-    "detections": 476,
-    "holo_rares": 7
+    "detections": 595,
+    "holo_rares": 8
   },
   "badge": {
     "schemaVersion": 1,
     "label": "🐦 birds",
-    "message": "17 species",
+    "message": "19 species",
     "color": "brightgreen"
   },
   "cards": [
@@ -27,8 +27,8 @@ window.BIRDY_REGISTRY = {
         "stars": 3,
         "elusive": false
       },
-      "hp": 147,
-      "detections": 117,
+      "hp": 148,
+      "detections": 118,
       "best_conf": 0.9938,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -61,8 +61,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 124,
-      "detections": 94,
+      "hp": 133,
+      "detections": 103,
       "best_conf": 0.9834,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -159,13 +159,13 @@ window.BIRDY_REGISTRY = {
       "sci": "Pheucticus melanocephalus",
       "type": "song",
       "rarity": {
-        "tier": "uncommon",
-        "stars": 1,
+        "tier": "rare",
+        "stars": 2,
         "elusive": false
       },
-      "hp": 60,
-      "detections": 30,
-      "best_conf": 0.9471,
+      "hp": 70,
+      "detections": 40,
+      "best_conf": 0.9755,
       "first_heard": "2026-05-26",
       "attacks": [
         {
@@ -183,8 +183,8 @@ window.BIRDY_REGISTRY = {
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pheucticus_melanocephalus_-California%2C_USA-8.jpg/330px-Pheucticus_melanocephalus_-California%2C_USA-8.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/Black-headed_grosbeak",
       "flavor": "The black-headed grosbeak is a medium-sized, seed-eating bird in the family Cardinalidae. It is sometimes considered conspecific with the rose-breasted grosbeak with which it hybridizes on the American Great Plains.",
-      "serial": "401d844757e6",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/pheucticus-melanocephalus/401d844757e6.json"
+      "serial": "40e630e322f8",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/pheucticus-melanocephalus/40e630e322f8.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -197,8 +197,8 @@ window.BIRDY_REGISTRY = {
         "stars": 3,
         "elusive": false
       },
-      "hp": 98,
-      "detections": 68,
+      "hp": 102,
+      "detections": 72,
       "best_conf": 0.9958,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -231,8 +231,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 80,
-      "detections": 50,
+      "hp": 104,
+      "detections": 74,
       "best_conf": 0.9636,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -299,8 +299,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 46,
-      "detections": 16,
+      "hp": 47,
+      "detections": 17,
       "best_conf": 0.9709,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -367,8 +367,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 49,
-      "detections": 19,
+      "hp": 77,
+      "detections": 47,
       "best_conf": 0.9663,
       "first_heard": "2026-05-27",
       "attacks": [
@@ -401,8 +401,8 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 46,
-      "detections": 16,
+      "hp": 47,
+      "detections": 17,
       "best_conf": 0.8955,
       "first_heard": "2026-05-27",
       "attacks": [
@@ -435,8 +435,8 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 41,
-      "detections": 11,
+      "hp": 55,
+      "detections": 25,
       "best_conf": 0.9083,
       "first_heard": "2026-05-30",
       "attacks": [
@@ -567,13 +567,13 @@ window.BIRDY_REGISTRY = {
       "sci": "Catharus ustulatus",
       "type": "song",
       "rarity": {
-        "tier": "common",
-        "stars": 0,
+        "tier": "uncommon",
+        "stars": 1,
         "elusive": false
       },
-      "hp": 33,
-      "detections": 3,
-      "best_conf": 0.8062,
+      "hp": 35,
+      "detections": 5,
+      "best_conf": 0.8879,
       "first_heard": "2026-06-01",
       "attacks": [
         {
@@ -591,8 +591,76 @@ window.BIRDY_REGISTRY = {
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Catharus_ustulatus_-North_Dakota-8a.jpg/330px-Catharus_ustulatus_-North_Dakota-8a.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/Swainson's_thrush",
       "flavor": "Swainson's thrush, also called olive-backed thrush, russet-backed thrush, and salmonberry bird is a medium-sized thrush. It is a member of genus Catharus and is typical of it in terms of its subdued coloration and beautiful, ascending flute-like voice. Swainson's thrush was named after William Swainson, an English o...",
-      "serial": "c106ebecb7f6",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/catharus-ustulatus/c106ebecb7f6.json"
+      "serial": "b0c9ecf349a1",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/catharus-ustulatus/b0c9ecf349a1.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "018",
+      "name": "Black-capped Chickadee",
+      "sci": "Poecile atricapillus",
+      "type": "tiny",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 36,
+      "detections": 6,
+      "best_conf": 0.8473,
+      "first_heard": "2026-06-01",
+      "attacks": [
+        {
+          "name": "Chickadee Scold",
+          "cost": 1,
+          "damage": 10
+        },
+        {
+          "name": "Seed Stash",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/poecile-atricapillus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Poecile-atricapilla-001.jpg/330px-Poecile-atricapilla-001.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Black-capped_chickadee",
+      "flavor": "The black-capped chickadee is a small, nonmigratory, North American passerine bird that lives in deciduous and mixed forests. It is a member of the Paridae family, also known as tits. It has a distinct black cap on its head, a black bib underneath, and white cheeks. It has a white belly, buff sides, and grey wings,...",
+      "serial": "12a913e8801e",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/poecile-atricapillus/12a913e8801e.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "019",
+      "name": "Mountain Chickadee",
+      "sci": "Poecile gambeli",
+      "type": "tiny",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 43,
+      "detections": 13,
+      "best_conf": 0.849,
+      "first_heard": "2026-06-01",
+      "attacks": [
+        {
+          "name": "Seed Stash",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Chickadee Scold",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/poecile-gambeli.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mountain_Chickadee_Sandia_Mountains.jpg/330px-Mountain_Chickadee_Sandia_Mountains.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Mountain_chickadee",
+      "flavor": "The mountain chickadee is a small songbird, a passerine bird in the tit family Paridae.",
+      "serial": "66f0a1f2ae67",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/poecile-gambeli/66f0a1f2ae67.json"
     }
   ],
   "frames": [
@@ -640,9 +708,9 @@ window.BIRDY_REGISTRY = {
     },
     {
       "date": "2026-06-01",
-      "sha8": "8a7a7cf25c0e",
-      "detections": 184,
-      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-01/8a7a7cf25c0e.json"
+      "sha8": "9ff5ac90d55a",
+      "detections": 303,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-01/9ff5ac90d55a.json"
     }
   ]
 };

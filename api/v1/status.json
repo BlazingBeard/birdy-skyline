@@ -1,11 +1,11 @@
 {
   "schema": "rapp-static-api-status/1.0",
-  "generated": "2026-06-01T15:53:15Z",
+  "generated": "2026-06-01T17:25:18Z",
   "summary": {
-    "species": 17,
+    "species": 19,
     "frames": 8,
-    "detections": 476,
-    "holo_rares": 7
+    "detections": 595,
+    "holo_rares": 8
   },
   "cards": [
     {
@@ -40,8 +40,8 @@
       "name": "Black-headed Grosbeak",
       "sci": "Pheucticus melanocephalus",
       "type": "song",
-      "rarity": "uncommon",
-      "serial": "401d844757e6"
+      "rarity": "rare",
+      "serial": "40e630e322f8"
     },
     {
       "name": "Steller's Jay",
@@ -124,8 +124,22 @@
       "name": "Swainson's Thrush",
       "sci": "Catharus ustulatus",
       "type": "song",
+      "rarity": "uncommon",
+      "serial": "b0c9ecf349a1"
+    },
+    {
+      "name": "Black-capped Chickadee",
+      "sci": "Poecile atricapillus",
+      "type": "tiny",
       "rarity": "common",
-      "serial": "c106ebecb7f6"
+      "serial": "12a913e8801e"
+    },
+    {
+      "name": "Mountain Chickadee",
+      "sci": "Poecile gambeli",
+      "type": "tiny",
+      "rarity": "common",
+      "serial": "66f0a1f2ae67"
     }
   ]
 }

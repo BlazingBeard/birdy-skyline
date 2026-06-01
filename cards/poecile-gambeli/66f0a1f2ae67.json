@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "019",
+  "name": "Mountain Chickadee",
+  "sci": "Poecile gambeli",
+  "type": "tiny",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 43,
+  "detections": 13,
+  "best_conf": 0.849,
+  "first_heard": "2026-06-01",
+  "attacks": [
+    {
+      "name": "Seed Stash",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Chickadee Scold",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/poecile-gambeli.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mountain_Chickadee_Sandia_Mountains.jpg/330px-Mountain_Chickadee_Sandia_Mountains.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Mountain_chickadee",
+  "flavor": "The mountain chickadee is a small songbird, a passerine bird in the tit family Paridae."
+}
