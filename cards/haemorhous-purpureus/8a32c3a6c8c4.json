@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "021",
+  "name": "Purple Finch",
+  "sci": "Haemorhous purpureus",
+  "type": "song",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 33,
+  "detections": 3,
+  "best_conf": 0.8122,
+  "first_heard": "2026-06-02",
+  "attacks": [
+    {
+      "name": "Counter-Sing",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Dawn Serenade",
+      "cost": 4,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/haemorhous-purpureus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Carpodacus_purpureus_CT3.jpg/330px-Carpodacus_purpureus_CT3.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Purple_finch",
+  "flavor": "The purple finch is a bird in the finch family, Fringillidae. It breeds in the northern United States, southern Canada, and the west coast of North America."
+}

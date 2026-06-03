@@ -1,18 +1,18 @@
 {
   "schema": "rapp-static-api/1.0",
   "name": "birdy-skyline",
-  "generated": "2026-06-01T17:25:18Z",
+  "generated": "2026-06-03T13:27:08Z",
   "raw_base": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main",
   "summary": {
-    "species": 19,
-    "frames": 8,
-    "detections": 595,
+    "species": 21,
+    "frames": 10,
+    "detections": 642,
     "holo_rares": 8
   },
   "badge": {
     "schemaVersion": 1,
     "label": "🐦 birds",
-    "message": "19 species",
+    "message": "21 species",
     "color": "brightgreen"
   },
   "cards": [
@@ -27,8 +27,8 @@
         "stars": 3,
         "elusive": false
       },
-      "hp": 148,
-      "detections": 118,
+      "hp": 164,
+      "detections": 134,
       "best_conf": 0.9938,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -93,10 +93,10 @@
       "rarity": {
         "tier": "uncommon",
         "stars": 1,
-        "elusive": true
+        "elusive": false
       },
-      "hp": 31,
-      "detections": 1,
+      "hp": 32,
+      "detections": 2,
       "best_conf": 0.9266,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -163,8 +163,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 70,
-      "detections": 40,
+      "hp": 74,
+      "detections": 44,
       "best_conf": 0.9755,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -197,8 +197,8 @@
         "stars": 3,
         "elusive": false
       },
-      "hp": 102,
-      "detections": 72,
+      "hp": 112,
+      "detections": 82,
       "best_conf": 0.9958,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -401,8 +401,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 47,
-      "detections": 17,
+      "hp": 48,
+      "detections": 18,
       "best_conf": 0.8955,
       "first_heard": "2026-05-27",
       "attacks": [
@@ -435,8 +435,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 55,
-      "detections": 25,
+      "hp": 60,
+      "detections": 30,
       "best_conf": 0.9083,
       "first_heard": "2026-05-30",
       "attacks": [
@@ -661,6 +661,74 @@
       "flavor": "The mountain chickadee is a small songbird, a passerine bird in the tit family Paridae.",
       "serial": "66f0a1f2ae67",
       "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/poecile-gambeli/66f0a1f2ae67.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "020",
+      "name": "American Robin",
+      "sci": "Turdus migratorius",
+      "type": "song",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 41,
+      "detections": 11,
+      "best_conf": 0.8612,
+      "first_heard": "2026-06-02",
+      "attacks": [
+        {
+          "name": "Sweet Whistle",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Dawn Serenade",
+          "cost": 3,
+          "damage": 80
+        }
+      ],
+      "spectrogram": "assets/spectrograms/turdus-migratorius.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/American_robin_%2871307%29.jpg/330px-American_robin_%2871307%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/American_robin",
+      "flavor": "The American robin is a migratory bird of the true thrush genus and Turdidae, the wider thrush family. It is named after the European robin because of its reddish-orange breast, though the two species are not closely related, with the European robin belonging to the Old World flycatcher family. The American robin is...",
+      "serial": "2519cf15dc03",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/turdus-migratorius/2519cf15dc03.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "021",
+      "name": "Purple Finch",
+      "sci": "Haemorhous purpureus",
+      "type": "song",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 33,
+      "detections": 3,
+      "best_conf": 0.8122,
+      "first_heard": "2026-06-02",
+      "attacks": [
+        {
+          "name": "Counter-Sing",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Dawn Serenade",
+          "cost": 4,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/haemorhous-purpureus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Carpodacus_purpureus_CT3.jpg/330px-Carpodacus_purpureus_CT3.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Purple_finch",
+      "flavor": "The purple finch is a bird in the finch family, Fringillidae. It breeds in the northern United States, southern Canada, and the west coast of North America.",
+      "serial": "8a32c3a6c8c4",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/haemorhous-purpureus/8a32c3a6c8c4.json"
     }
   ],
   "frames": [
@@ -708,9 +776,21 @@
     },
     {
       "date": "2026-06-01",
-      "sha8": "9ff5ac90d55a",
-      "detections": 303,
-      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-01/9ff5ac90d55a.json"
+      "sha8": "5d3619d1cf84",
+      "detections": 320,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-01/5d3619d1cf84.json"
+    },
+    {
+      "date": "2026-06-02",
+      "sha8": "0d6109b7ac42",
+      "detections": 15,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-02/0d6109b7ac42.json"
+    },
+    {
+      "date": "2026-06-03",
+      "sha8": "58592c3ac4ab",
+      "detections": 15,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-03/58592c3ac4ab.json"
     }
   ]
 }

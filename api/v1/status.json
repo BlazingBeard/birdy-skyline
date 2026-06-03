@@ -1,10 +1,10 @@
 {
   "schema": "rapp-static-api-status/1.0",
-  "generated": "2026-06-01T17:25:18Z",
+  "generated": "2026-06-03T13:27:08Z",
   "summary": {
-    "species": 19,
-    "frames": 8,
-    "detections": 595,
+    "species": 21,
+    "frames": 10,
+    "detections": 642,
     "holo_rares": 8
   },
   "cards": [
@@ -140,6 +140,20 @@
       "type": "tiny",
       "rarity": "common",
       "serial": "66f0a1f2ae67"
+    },
+    {
+      "name": "American Robin",
+      "sci": "Turdus migratorius",
+      "type": "song",
+      "rarity": "uncommon",
+      "serial": "2519cf15dc03"
+    },
+    {
+      "name": "Purple Finch",
+      "sci": "Haemorhous purpureus",
+      "type": "song",
+      "rarity": "common",
+      "serial": "8a32c3a6c8c4"
     }
   ]
 }

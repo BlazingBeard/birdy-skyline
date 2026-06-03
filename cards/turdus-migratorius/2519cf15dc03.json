@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "020",
+  "name": "American Robin",
+  "sci": "Turdus migratorius",
+  "type": "song",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 41,
+  "detections": 11,
+  "best_conf": 0.8612,
+  "first_heard": "2026-06-02",
+  "attacks": [
+    {
+      "name": "Sweet Whistle",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Dawn Serenade",
+      "cost": 3,
+      "damage": 80
+    }
+  ],
+  "spectrogram": "assets/spectrograms/turdus-migratorius.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/American_robin_%2871307%29.jpg/330px-American_robin_%2871307%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_robin",
+  "flavor": "The American robin is a migratory bird of the true thrush genus and Turdidae, the wider thrush family. It is named after the European robin because of its reddish-orange breast, though the two species are not closely related, with the European robin belonging to the Old World flycatcher family. The American robin is..."
+}
