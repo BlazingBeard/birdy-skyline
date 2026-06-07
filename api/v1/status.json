@@ -1,10 +1,10 @@
 {
   "schema": "rapp-static-api-status/1.0",
-  "generated": "2026-06-03T13:27:08Z",
+  "generated": "2026-06-07T17:09:09Z",
   "summary": {
-    "species": 21,
-    "frames": 10,
-    "detections": 642,
+    "species": 28,
+    "frames": 12,
+    "detections": 1042,
     "holo_rares": 8
   },
   "cards": [
@@ -154,6 +154,55 @@
       "type": "song",
       "rarity": "common",
       "serial": "8a32c3a6c8c4"
+    },
+    {
+      "name": "Band-tailed Pigeon",
+      "sci": "Patagioenas fasciata",
+      "type": "ground",
+      "rarity": "uncommon",
+      "serial": "effaed9e4b19"
+    },
+    {
+      "name": "Hammond's Flycatcher",
+      "sci": "Empidonax hammondii",
+      "type": "aerial",
+      "rarity": "uncommon",
+      "serial": "17f6c8c2cd6f"
+    },
+    {
+      "name": "Green-winged Teal",
+      "sci": "Anas crecca",
+      "type": "aqua",
+      "rarity": "uncommon",
+      "serial": "a9cab679158e"
+    },
+    {
+      "name": "Cedar Waxwing",
+      "sci": "Bombycilla cedrorum",
+      "type": "song",
+      "rarity": "uncommon",
+      "serial": "4896afe7d8b3"
+    },
+    {
+      "name": "Pileated Woodpecker",
+      "sci": "Dryocopus pileatus",
+      "type": "drum",
+      "rarity": "uncommon",
+      "serial": "6879e67d8249"
+    },
+    {
+      "name": "Townsend's Solitaire",
+      "sci": "Myadestes townsendi",
+      "type": "wild",
+      "rarity": "uncommon",
+      "serial": "f4215095217c"
+    },
+    {
+      "name": "Chestnut-backed Chickadee",
+      "sci": "Poecile rufescens",
+      "type": "tiny",
+      "rarity": "uncommon",
+      "serial": "e8b068c6a505"
     }
   ]
 }

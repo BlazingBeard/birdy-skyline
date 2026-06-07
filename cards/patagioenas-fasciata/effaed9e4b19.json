@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "022",
+  "name": "Band-tailed Pigeon",
+  "sci": "Patagioenas fasciata",
+  "type": "ground",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 38,
+  "detections": 8,
+  "best_conf": 0.8625,
+  "first_heard": "2026-06-03",
+  "attacks": [
+    {
+      "name": "Soft Coo",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Low Strut",
+      "cost": 4,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/patagioenas-fasciata.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Patagioenas_fasciata_-San_Luis_Obispo%2C_California%2C_USA-8_%281%29.jpg/330px-Patagioenas_fasciata_-San_Luis_Obispo%2C_California%2C_USA-8_%281%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Band-tailed_pigeon",
+  "flavor": "The band-tailed pigeon is a pigeon native to the Americas, and one of the largest pigeons in this region. It is largely gray, but with a thin white collar on the nape and a purple-gray breast."
+}

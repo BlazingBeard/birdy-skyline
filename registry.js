@@ -1,18 +1,18 @@
 window.BIRDY_REGISTRY = {
   "schema": "rapp-static-api/1.0",
   "name": "birdy-skyline",
-  "generated": "2026-06-03T13:27:08Z",
+  "generated": "2026-06-07T17:09:09Z",
   "raw_base": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main",
   "summary": {
-    "species": 21,
-    "frames": 10,
-    "detections": 642,
+    "species": 28,
+    "frames": 12,
+    "detections": 1042,
     "holo_rares": 8
   },
   "badge": {
     "schemaVersion": 1,
     "label": "🐦 birds",
-    "message": "21 species",
+    "message": "28 species",
     "color": "brightgreen"
   },
   "cards": [
@@ -27,8 +27,8 @@ window.BIRDY_REGISTRY = {
         "stars": 3,
         "elusive": false
       },
-      "hp": 164,
-      "detections": 134,
+      "hp": 278,
+      "detections": 248,
       "best_conf": 0.9938,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -61,8 +61,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 133,
-      "detections": 103,
+      "hp": 142,
+      "detections": 112,
       "best_conf": 0.9834,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -129,9 +129,9 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 40,
-      "detections": 10,
-      "best_conf": 0.9535,
+      "hp": 45,
+      "detections": 15,
+      "best_conf": 0.9817,
       "first_heard": "2026-05-25",
       "attacks": [
         {
@@ -163,8 +163,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 74,
-      "detections": 44,
+      "hp": 103,
+      "detections": 73,
       "best_conf": 0.9755,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -197,8 +197,8 @@ window.BIRDY_REGISTRY = {
         "stars": 3,
         "elusive": false
       },
-      "hp": 112,
-      "detections": 82,
+      "hp": 195,
+      "detections": 165,
       "best_conf": 0.9958,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -231,8 +231,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 104,
-      "detections": 74,
+      "hp": 123,
+      "detections": 93,
       "best_conf": 0.9636,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -299,8 +299,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 47,
-      "detections": 17,
+      "hp": 65,
+      "detections": 35,
       "best_conf": 0.9709,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -367,8 +367,8 @@ window.BIRDY_REGISTRY = {
         "stars": 2,
         "elusive": false
       },
-      "hp": 77,
-      "detections": 47,
+      "hp": 78,
+      "detections": 48,
       "best_conf": 0.9663,
       "first_heard": "2026-05-27",
       "attacks": [
@@ -401,9 +401,9 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 48,
-      "detections": 18,
-      "best_conf": 0.8955,
+      "hp": 51,
+      "detections": 21,
+      "best_conf": 0.901,
       "first_heard": "2026-05-27",
       "attacks": [
         {
@@ -435,8 +435,8 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 60,
-      "detections": 30,
+      "hp": 91,
+      "detections": 61,
       "best_conf": 0.9083,
       "first_heard": "2026-05-30",
       "attacks": [
@@ -571,9 +571,9 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 35,
-      "detections": 5,
-      "best_conf": 0.8879,
+      "hp": 42,
+      "detections": 12,
+      "best_conf": 0.9013,
       "first_heard": "2026-06-01",
       "attacks": [
         {
@@ -605,8 +605,8 @@ window.BIRDY_REGISTRY = {
         "stars": 0,
         "elusive": false
       },
-      "hp": 36,
-      "detections": 6,
+      "hp": 37,
+      "detections": 7,
       "best_conf": 0.8473,
       "first_heard": "2026-06-01",
       "attacks": [
@@ -673,8 +673,8 @@ window.BIRDY_REGISTRY = {
         "stars": 1,
         "elusive": false
       },
-      "hp": 41,
-      "detections": 11,
+      "hp": 51,
+      "detections": 21,
       "best_conf": 0.8612,
       "first_heard": "2026-06-02",
       "attacks": [
@@ -707,9 +707,9 @@ window.BIRDY_REGISTRY = {
         "stars": 0,
         "elusive": false
       },
-      "hp": 33,
-      "detections": 3,
-      "best_conf": 0.8122,
+      "hp": 54,
+      "detections": 24,
+      "best_conf": 0.8421,
       "first_heard": "2026-06-02",
       "attacks": [
         {
@@ -729,6 +729,244 @@ window.BIRDY_REGISTRY = {
       "flavor": "The purple finch is a bird in the finch family, Fringillidae. It breeds in the northern United States, southern Canada, and the west coast of North America.",
       "serial": "8a32c3a6c8c4",
       "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/haemorhous-purpureus/8a32c3a6c8c4.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "022",
+      "name": "Band-tailed Pigeon",
+      "sci": "Patagioenas fasciata",
+      "type": "ground",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 38,
+      "detections": 8,
+      "best_conf": 0.8625,
+      "first_heard": "2026-06-03",
+      "attacks": [
+        {
+          "name": "Soft Coo",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Low Strut",
+          "cost": 4,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/patagioenas-fasciata.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Patagioenas_fasciata_-San_Luis_Obispo%2C_California%2C_USA-8_%281%29.jpg/330px-Patagioenas_fasciata_-San_Luis_Obispo%2C_California%2C_USA-8_%281%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Band-tailed_pigeon",
+      "flavor": "The band-tailed pigeon is a pigeon native to the Americas, and one of the largest pigeons in this region. It is largely gray, but with a thin white collar on the nape and a purple-gray breast.",
+      "serial": "effaed9e4b19",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/patagioenas-fasciata/effaed9e4b19.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "023",
+      "name": "Hammond's Flycatcher",
+      "sci": "Empidonax hammondii",
+      "type": "aerial",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": true
+      },
+      "hp": 31,
+      "detections": 1,
+      "best_conf": 0.8842,
+      "first_heard": "2026-06-03",
+      "attacks": [
+        {
+          "name": "Snap Strike",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Wing Flick",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/empidonax-hammondii.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Empidonax_hammondii.jpg/330px-Empidonax_hammondii.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Hammond's_flycatcher",
+      "flavor": "Hammond's flycatcher is a flycatcher in the family Tyrannidae. This small insectivorous bird inhabits the coniferous and mixed forests of western North America. The name of this bird commemorates William Alexander Hammond who was the surgeon general of the US Army. Hammond collected bird specimens for Spencer Fuller...",
+      "serial": "17f6c8c2cd6f",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/empidonax-hammondii/17f6c8c2cd6f.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "024",
+      "name": "Green-winged Teal",
+      "sci": "Anas crecca",
+      "type": "aqua",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 33,
+      "detections": 3,
+      "best_conf": 0.8627,
+      "first_heard": "2026-06-06",
+      "attacks": [
+        {
+          "name": "Plunge",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Reed Hide",
+          "cost": 4,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/anas-crecca.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Green-winged_Teal%2C_Port_Aransas%2C_Texas.jpg/330px-Green-winged_Teal%2C_Port_Aransas%2C_Texas.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Green-winged_teal",
+      "flavor": "The green-winged teal or American teal is a common and widespread duck that breeds in the northern areas of North America except on the Aleutian Islands. It was considered conspecific with the Eurasian teal for some time, but the two have since been split into separate species. The American Ornithological Society co...",
+      "serial": "a9cab679158e",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/anas-crecca/a9cab679158e.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "025",
+      "name": "Cedar Waxwing",
+      "sci": "Bombycilla cedrorum",
+      "type": "song",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 34,
+      "detections": 4,
+      "best_conf": 0.9407,
+      "first_heard": "2026-06-07",
+      "attacks": [
+        {
+          "name": "Dawn Serenade",
+          "cost": 1,
+          "damage": 10
+        },
+        {
+          "name": "Counter-Sing",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/bombycilla-cedrorum.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington%27s_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_%2839997434862%29.jpg/330px-Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington%27s_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_%2839997434862%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Cedar_waxwing",
+      "flavor": "The cedar waxwing is a member of the family Bombycillidae or waxwing family of passerine birds. It is a medium-sized bird that is mainly brown, gray, and yellow. Some of the wing feathers have red tips which resemble sealing wax, giving these birds their common name. It is a native of North and Central America, bree...",
+      "serial": "4896afe7d8b3",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/bombycilla-cedrorum/4896afe7d8b3.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "026",
+      "name": "Pileated Woodpecker",
+      "sci": "Dryocopus pileatus",
+      "type": "drum",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": true
+      },
+      "hp": 31,
+      "detections": 1,
+      "best_conf": 0.8702,
+      "first_heard": "2026-06-07",
+      "attacks": [
+        {
+          "name": "Sap Tap",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Bark Volley",
+          "cost": 4,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/dryocopus-pileatus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/PileatedWoodpeckerFeedingonTree%2C_crop.jpg/330px-PileatedWoodpeckerFeedingonTree%2C_crop.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Pileated_woodpecker",
+      "flavor": "The pileated woodpecker is a large, crow-sized woodpecker with a prominent red crest, white neck stripe, and a mostly black body. This woodpecker is native to North America, where it is the largest confirmed extant woodpecker species and the third-largest extant species of woodpecker in the world, after the great sl...",
+      "serial": "6879e67d8249",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/dryocopus-pileatus/6879e67d8249.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "027",
+      "name": "Townsend's Solitaire",
+      "sci": "Myadestes townsendi",
+      "type": "wild",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 43,
+      "detections": 13,
+      "best_conf": 0.9383,
+      "first_heard": "2026-06-07",
+      "attacks": [
+        {
+          "name": "Flush",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Skulk",
+          "cost": 3,
+          "damage": 80
+        }
+      ],
+      "spectrogram": "assets/spectrograms/myadestes-townsendi.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TownsendsSolitaire.jpg/330px-TownsendsSolitaire.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Townsend's_solitaire",
+      "flavor": "Townsend's solitaire is a medium-sized thrush, the only solitaire native to America north of Mexico.",
+      "serial": "f4215095217c",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/myadestes-townsendi/f4215095217c.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "028",
+      "name": "Chestnut-backed Chickadee",
+      "sci": "Poecile rufescens",
+      "type": "tiny",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": true
+      },
+      "hp": 31,
+      "detections": 1,
+      "best_conf": 0.8704,
+      "first_heard": "2026-06-07",
+      "attacks": [
+        {
+          "name": "Seed Stash",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Chickadee Scold",
+          "cost": 3,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/poecile-rufescens.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Chestnut-backed_Chickadee_2154ab_%28cropped%29.jpg/330px-Chestnut-backed_Chickadee_2154ab_%28cropped%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Chestnut-backed_chickadee",
+      "flavor": "The chestnut-backed chickadee is a small passerine bird in the tit family, native to western North America.",
+      "serial": "e8b068c6a505",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/poecile-rufescens/e8b068c6a505.json"
     }
   ],
   "frames": [
@@ -788,9 +1026,21 @@ window.BIRDY_REGISTRY = {
     },
     {
       "date": "2026-06-03",
-      "sha8": "58592c3ac4ab",
-      "detections": 15,
-      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-03/58592c3ac4ab.json"
+      "sha8": "6847cf6c32d3",
+      "detections": 240,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-03/6847cf6c32d3.json"
+    },
+    {
+      "date": "2026-06-06",
+      "sha8": "fd40a7c93119",
+      "detections": 64,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-06/fd40a7c93119.json"
+    },
+    {
+      "date": "2026-06-07",
+      "sha8": "5d27132e6b22",
+      "detections": 111,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-07/5d27132e6b22.json"
     }
   ]
 };

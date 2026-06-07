@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "027",
+  "name": "Townsend's Solitaire",
+  "sci": "Myadestes townsendi",
+  "type": "wild",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 43,
+  "detections": 13,
+  "best_conf": 0.9383,
+  "first_heard": "2026-06-07",
+  "attacks": [
+    {
+      "name": "Flush",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Skulk",
+      "cost": 3,
+      "damage": 80
+    }
+  ],
+  "spectrogram": "assets/spectrograms/myadestes-townsendi.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TownsendsSolitaire.jpg/330px-TownsendsSolitaire.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Townsend's_solitaire",
+  "flavor": "Townsend's solitaire is a medium-sized thrush, the only solitaire native to America north of Mexico."
+}

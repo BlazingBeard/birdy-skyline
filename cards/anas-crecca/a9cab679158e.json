@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "024",
+  "name": "Green-winged Teal",
+  "sci": "Anas crecca",
+  "type": "aqua",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 33,
+  "detections": 3,
+  "best_conf": 0.8627,
+  "first_heard": "2026-06-06",
+  "attacks": [
+    {
+      "name": "Plunge",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Reed Hide",
+      "cost": 4,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/anas-crecca.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Green-winged_Teal%2C_Port_Aransas%2C_Texas.jpg/330px-Green-winged_Teal%2C_Port_Aransas%2C_Texas.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Green-winged_teal",
+  "flavor": "The green-winged teal or American teal is a common and widespread duck that breeds in the northern areas of North America except on the Aleutian Islands. It was considered conspecific with the Eurasian teal for some time, but the two have since been split into separate species. The American Ornithological Society co..."
+}

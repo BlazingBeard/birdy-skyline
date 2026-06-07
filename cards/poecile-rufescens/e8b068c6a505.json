@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "028",
+  "name": "Chestnut-backed Chickadee",
+  "sci": "Poecile rufescens",
+  "type": "tiny",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": true
+  },
+  "hp": 31,
+  "detections": 1,
+  "best_conf": 0.8704,
+  "first_heard": "2026-06-07",
+  "attacks": [
+    {
+      "name": "Seed Stash",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Chickadee Scold",
+      "cost": 3,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/poecile-rufescens.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Chestnut-backed_Chickadee_2154ab_%28cropped%29.jpg/330px-Chestnut-backed_Chickadee_2154ab_%28cropped%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Chestnut-backed_chickadee",
+  "flavor": "The chestnut-backed chickadee is a small passerine bird in the tit family, native to western North America."
+}

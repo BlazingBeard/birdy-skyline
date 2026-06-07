@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "023",
+  "name": "Hammond's Flycatcher",
+  "sci": "Empidonax hammondii",
+  "type": "aerial",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": true
+  },
+  "hp": 31,
+  "detections": 1,
+  "best_conf": 0.8842,
+  "first_heard": "2026-06-03",
+  "attacks": [
+    {
+      "name": "Snap Strike",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Wing Flick",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/empidonax-hammondii.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Empidonax_hammondii.jpg/330px-Empidonax_hammondii.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Hammond's_flycatcher",
+  "flavor": "Hammond's flycatcher is a flycatcher in the family Tyrannidae. This small insectivorous bird inhabits the coniferous and mixed forests of western North America. The name of this bird commemorates William Alexander Hammond who was the surgeon general of the US Army. Hammond collected bird specimens for Spencer Fuller..."
+}

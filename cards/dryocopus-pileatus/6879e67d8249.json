@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "026",
+  "name": "Pileated Woodpecker",
+  "sci": "Dryocopus pileatus",
+  "type": "drum",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": true
+  },
+  "hp": 31,
+  "detections": 1,
+  "best_conf": 0.8702,
+  "first_heard": "2026-06-07",
+  "attacks": [
+    {
+      "name": "Sap Tap",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Bark Volley",
+      "cost": 4,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/dryocopus-pileatus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/PileatedWoodpeckerFeedingonTree%2C_crop.jpg/330px-PileatedWoodpeckerFeedingonTree%2C_crop.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Pileated_woodpecker",
+  "flavor": "The pileated woodpecker is a large, crow-sized woodpecker with a prominent red crest, white neck stripe, and a mostly black body. This woodpecker is native to North America, where it is the largest confirmed extant woodpecker species and the third-largest extant species of woodpecker in the world, after the great sl..."
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "025",
+  "name": "Cedar Waxwing",
+  "sci": "Bombycilla cedrorum",
+  "type": "song",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 34,
+  "detections": 4,
+  "best_conf": 0.9407,
+  "first_heard": "2026-06-07",
+  "attacks": [
+    {
+      "name": "Dawn Serenade",
+      "cost": 1,
+      "damage": 10
+    },
+    {
+      "name": "Counter-Sing",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/bombycilla-cedrorum.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington%27s_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_%2839997434862%29.jpg/330px-Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington%27s_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_%2839997434862%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Cedar_waxwing",
+  "flavor": "The cedar waxwing is a member of the family Bombycillidae or waxwing family of passerine birds. It is a medium-sized bird that is mainly brown, gray, and yellow. Some of the wing feathers have red tips which resemble sealing wax, giving these birds their common name. It is a native of North and Central America, bree..."
+}
