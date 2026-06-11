@@ -1,18 +1,18 @@
 {
   "schema": "rapp-static-api/1.0",
   "name": "birdy-skyline",
-  "generated": "2026-06-07T17:09:09Z",
+  "generated": "2026-06-11T19:19:58Z",
   "raw_base": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main",
   "summary": {
-    "species": 28,
-    "frames": 12,
-    "detections": 1042,
-    "holo_rares": 8
+    "species": 39,
+    "frames": 16,
+    "detections": 2557,
+    "holo_rares": 12
   },
   "badge": {
     "schemaVersion": 1,
     "label": "🐦 birds",
-    "message": "28 species",
+    "message": "39 species",
     "color": "brightgreen"
   },
   "cards": [
@@ -27,8 +27,8 @@
         "stars": 3,
         "elusive": false
       },
-      "hp": 278,
-      "detections": 248,
+      "hp": 323,
+      "detections": 293,
       "best_conf": 0.9938,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -61,8 +61,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 142,
-      "detections": 112,
+      "hp": 150,
+      "detections": 120,
       "best_conf": 0.9834,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -95,8 +95,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 32,
-      "detections": 2,
+      "hp": 34,
+      "detections": 4,
       "best_conf": 0.9266,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -125,13 +125,13 @@
       "sci": "Aphelocoma californica",
       "type": "mind",
       "rarity": {
-        "tier": "rare",
-        "stars": 2,
+        "tier": "holo-rare",
+        "stars": 3,
         "elusive": false
       },
-      "hp": 45,
-      "detections": 15,
-      "best_conf": 0.9817,
+      "hp": 51,
+      "detections": 21,
+      "best_conf": 0.9969,
       "first_heard": "2026-05-25",
       "attacks": [
         {
@@ -149,8 +149,8 @@
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/California_Scrub_Jay%2C_Richmond%2C_Contra_Costa%2C_California_%2830644196597%29.jpg/330px-California_Scrub_Jay%2C_Richmond%2C_Contra_Costa%2C_California_%2830644196597%29.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/California_scrub_jay",
       "flavor": "The California scrub jay is a species of scrub jay native to western North America. It ranges from southern British Columbia throughout California and western Nevada near Reno to west of the Sierra Nevada. The California scrub jay was once lumped with Woodhouse's scrub jay and collectively called the western scrub j...",
-      "serial": "3eb252657bf1",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/aphelocoma-californica/3eb252657bf1.json"
+      "serial": "0b5fa589196a",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/aphelocoma-californica/0b5fa589196a.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -163,8 +163,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 103,
-      "detections": 73,
+      "hp": 152,
+      "detections": 122,
       "best_conf": 0.9755,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -197,8 +197,8 @@
         "stars": 3,
         "elusive": false
       },
-      "hp": 195,
-      "detections": 165,
+      "hp": 544,
+      "detections": 514,
       "best_conf": 0.9958,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -231,9 +231,9 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 123,
-      "detections": 93,
-      "best_conf": 0.9636,
+      "hp": 241,
+      "detections": 211,
+      "best_conf": 0.9704,
       "first_heard": "2026-05-26",
       "attacks": [
         {
@@ -299,8 +299,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 65,
-      "detections": 35,
+      "hp": 169,
+      "detections": 139,
       "best_conf": 0.9709,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -367,8 +367,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 78,
-      "detections": 48,
+      "hp": 80,
+      "detections": 50,
       "best_conf": 0.9663,
       "first_heard": "2026-05-27",
       "attacks": [
@@ -401,9 +401,9 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 51,
-      "detections": 21,
-      "best_conf": 0.901,
+      "hp": 121,
+      "detections": 91,
+      "best_conf": 0.9381,
       "first_heard": "2026-05-27",
       "attacks": [
         {
@@ -431,13 +431,13 @@
       "sci": "Piranga ludoviciana",
       "type": "song",
       "rarity": {
-        "tier": "uncommon",
-        "stars": 1,
+        "tier": "rare",
+        "stars": 2,
         "elusive": false
       },
-      "hp": 91,
-      "detections": 61,
-      "best_conf": 0.9083,
+      "hp": 366,
+      "detections": 336,
+      "best_conf": 0.9698,
       "first_heard": "2026-05-30",
       "attacks": [
         {
@@ -455,8 +455,8 @@
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Western_Tanager_%28male%29.jpg/330px-Western_Tanager_%28male%29.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/Western_tanager",
       "flavor": "The western tanager is a medium-sized American songbird. Formerly placed in the tanager family (Thraupidae), it and other members of its genus are classified in the cardinal family (Cardinalidae). The species' plumage and vocalizations are similar to other members of the cardinal family.",
-      "serial": "ac80d7f94762",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/piranga-ludoviciana/ac80d7f94762.json"
+      "serial": "c5f46a459d77",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/piranga-ludoviciana/c5f46a459d77.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -469,8 +469,8 @@
         "stars": 0,
         "elusive": false
       },
-      "hp": 35,
-      "detections": 5,
+      "hp": 41,
+      "detections": 11,
       "best_conf": 0.8315,
       "first_heard": "2026-05-30",
       "attacks": [
@@ -503,8 +503,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 36,
-      "detections": 6,
+      "hp": 65,
+      "detections": 35,
       "best_conf": 0.9214,
       "first_heard": "2026-05-30",
       "attacks": [
@@ -535,10 +535,10 @@
       "rarity": {
         "tier": "common",
         "stars": 0,
-        "elusive": true
+        "elusive": false
       },
-      "hp": 31,
-      "detections": 1,
+      "hp": 42,
+      "detections": 12,
       "best_conf": 0.8488,
       "first_heard": "2026-05-31",
       "attacks": [
@@ -571,8 +571,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 42,
-      "detections": 12,
+      "hp": 43,
+      "detections": 13,
       "best_conf": 0.9013,
       "first_heard": "2026-06-01",
       "attacks": [
@@ -605,8 +605,8 @@
         "stars": 0,
         "elusive": false
       },
-      "hp": 37,
-      "detections": 7,
+      "hp": 38,
+      "detections": 8,
       "best_conf": 0.8473,
       "first_heard": "2026-06-01",
       "attacks": [
@@ -673,9 +673,9 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 51,
-      "detections": 21,
-      "best_conf": 0.8612,
+      "hp": 97,
+      "detections": 67,
+      "best_conf": 0.9498,
       "first_heard": "2026-06-02",
       "attacks": [
         {
@@ -703,13 +703,13 @@
       "sci": "Haemorhous purpureus",
       "type": "song",
       "rarity": {
-        "tier": "common",
-        "stars": 0,
+        "tier": "rare",
+        "stars": 2,
         "elusive": false
       },
-      "hp": 54,
-      "detections": 24,
-      "best_conf": 0.8421,
+      "hp": 104,
+      "detections": 74,
+      "best_conf": 0.9652,
       "first_heard": "2026-06-02",
       "attacks": [
         {
@@ -727,8 +727,8 @@
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Carpodacus_purpureus_CT3.jpg/330px-Carpodacus_purpureus_CT3.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/Purple_finch",
       "flavor": "The purple finch is a bird in the finch family, Fringillidae. It breeds in the northern United States, southern Canada, and the west coast of North America.",
-      "serial": "8a32c3a6c8c4",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/haemorhous-purpureus/8a32c3a6c8c4.json"
+      "serial": "e0e6cbdbecd4",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/haemorhous-purpureus/e0e6cbdbecd4.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -741,8 +741,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 38,
-      "detections": 8,
+      "hp": 42,
+      "detections": 12,
       "best_conf": 0.8625,
       "first_heard": "2026-06-03",
       "attacks": [
@@ -809,8 +809,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 33,
-      "detections": 3,
+      "hp": 36,
+      "detections": 6,
       "best_conf": 0.8627,
       "first_heard": "2026-06-06",
       "attacks": [
@@ -843,8 +843,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 34,
-      "detections": 4,
+      "hp": 38,
+      "detections": 8,
       "best_conf": 0.9407,
       "first_heard": "2026-06-07",
       "attacks": [
@@ -875,10 +875,10 @@
       "rarity": {
         "tier": "uncommon",
         "stars": 1,
-        "elusive": true
+        "elusive": false
       },
-      "hp": 31,
-      "detections": 1,
+      "hp": 33,
+      "detections": 3,
       "best_conf": 0.8702,
       "first_heard": "2026-06-07",
       "attacks": [
@@ -907,13 +907,13 @@
       "sci": "Myadestes townsendi",
       "type": "wild",
       "rarity": {
-        "tier": "uncommon",
-        "stars": 1,
+        "tier": "holo-rare",
+        "stars": 3,
         "elusive": false
       },
-      "hp": 43,
-      "detections": 13,
-      "best_conf": 0.9383,
+      "hp": 267,
+      "detections": 237,
+      "best_conf": 0.9992,
       "first_heard": "2026-06-07",
       "attacks": [
         {
@@ -931,8 +931,8 @@
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TownsendsSolitaire.jpg/330px-TownsendsSolitaire.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/Townsend's_solitaire",
       "flavor": "Townsend's solitaire is a medium-sized thrush, the only solitaire native to America north of Mexico.",
-      "serial": "f4215095217c",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/myadestes-townsendi/f4215095217c.json"
+      "serial": "e024938342c7",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/myadestes-townsendi/e024938342c7.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -943,10 +943,10 @@
       "rarity": {
         "tier": "uncommon",
         "stars": 1,
-        "elusive": true
+        "elusive": false
       },
-      "hp": 31,
-      "detections": 1,
+      "hp": 34,
+      "detections": 4,
       "best_conf": 0.8704,
       "first_heard": "2026-06-07",
       "attacks": [
@@ -967,6 +967,380 @@
       "flavor": "The chestnut-backed chickadee is a small passerine bird in the tit family, native to western North America.",
       "serial": "e8b068c6a505",
       "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/poecile-rufescens/e8b068c6a505.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "029",
+      "name": "Say's Phoebe",
+      "sci": "Sayornis saya",
+      "type": "aerial",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 32,
+      "detections": 2,
+      "best_conf": 0.9096,
+      "first_heard": "2026-06-07",
+      "attacks": [
+        {
+          "name": "Perch Ambush",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Snap Strike",
+          "cost": 3,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/sayornis-saya.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sayornis_saya_GNP_01.jpg/330px-Sayornis_saya_GNP_01.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Say's_phoebe",
+      "flavor": "Say's phoebe is a passerine bird in the tyrant flycatcher family, Tyrannidae. A common bird across western North America, it prefers dry, desolate areas. It was named for Thomas Say, an American naturalist.",
+      "serial": "464eab3dfb92",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/sayornis-saya/464eab3dfb92.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "030",
+      "name": "American Goldfinch",
+      "sci": "Spinus tristis",
+      "type": "song",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 37,
+      "detections": 7,
+      "best_conf": 0.9097,
+      "first_heard": "2026-06-07",
+      "attacks": [
+        {
+          "name": "Counter-Sing",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Trill Cascade",
+          "cost": 2,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/spinus-tristis.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg/330px-Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/American_goldfinch",
+      "flavor": "The American goldfinch is a small North American bird in the finch family. It is migratory, ranging from mid-Alberta to North Carolina during the breeding season, and from just south of the Canada–United States border to Mexico during the winter.",
+      "serial": "1442f1a76ed2",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/spinus-tristis/1442f1a76ed2.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "031",
+      "name": "Red-tailed Hawk",
+      "sci": "Buteo jamaicensis",
+      "type": "sky",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 40,
+      "detections": 10,
+      "best_conf": 0.8158,
+      "first_heard": "2026-06-08",
+      "attacks": [
+        {
+          "name": "Talon Lock",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Silent Glide",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/buteo-jamaicensis.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg/330px-Red-tailed_Hawk_%2845812546121%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Red-tailed_hawk",
+      "flavor": "The red-tailed hawk is a bird of prey and one of the most common hawks in North America. In the United States, it is one of three species colloquially known as the \"chickenhawk\". The red-tailed hawk breeds throughout most of the continent, from western Alaska and northern Canada to as far south as Panama and the Wes...",
+      "serial": "ab2e0d373fb0",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/buteo-jamaicensis/ab2e0d373fb0.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "032",
+      "name": "Hutton's Vireo",
+      "sci": "Vireo huttoni",
+      "type": "song",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 33,
+      "detections": 3,
+      "best_conf": 0.9437,
+      "first_heard": "2026-06-08",
+      "attacks": [
+        {
+          "name": "Dawn Serenade",
+          "cost": 1,
+          "damage": 10
+        },
+        {
+          "name": "Sweet Whistle",
+          "cost": 3,
+          "damage": 80
+        }
+      ],
+      "spectrogram": "assets/spectrograms/vireo-huttoni.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hutton%27s_Vireo_%2843379432594%29.jpg/330px-Hutton%27s_Vireo_%2843379432594%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Hutton's_vireo",
+      "flavor": "Hutton's vireo is a small songbird in the family Vireonidae, the vireos, greenlets, and shrike-babblers. It is found from southwestern Canada to Guatemala.",
+      "serial": "59a528f8eb0b",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/vireo-huttoni/59a528f8eb0b.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "033",
+      "name": "Cassin's Vireo",
+      "sci": "Vireo cassinii",
+      "type": "song",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 34,
+      "detections": 4,
+      "best_conf": 0.8517,
+      "first_heard": "2026-06-08",
+      "attacks": [
+        {
+          "name": "Sweet Whistle",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Trill Cascade",
+          "cost": 4,
+          "damage": 80
+        }
+      ],
+      "spectrogram": "assets/spectrograms/vireo-cassinii.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cassin%27s_Vireo_Las_Cruces.jpg/330px-Cassin%27s_Vireo_Las_Cruces.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Cassin's_vireo",
+      "flavor": "Cassin's vireo is a small North American songbird, ranging from southern British Columbia in Canada through the western coastal states of the United States, including California, Oregon, and Washington. The Cassin's Vireo moves down Western United States forests in its migration. During its migration in early spring...",
+      "serial": "a1af9bfbecfb",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/vireo-cassinii/a1af9bfbecfb.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "034",
+      "name": "Northern Harrier",
+      "sci": "Circus hudsonius",
+      "type": "sky",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 34,
+      "detections": 4,
+      "best_conf": 0.8746,
+      "first_heard": "2026-06-08",
+      "attacks": [
+        {
+          "name": "Thermal Soar",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Silent Glide",
+          "cost": 4,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/circus-hudsonius.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Circus_hudsonius%2C_male_perched%2C_Berkeley%2C_California_%28cropped%29.jpg/330px-Circus_hudsonius%2C_male_perched%2C_Berkeley%2C_California_%28cropped%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Northern_harrier",
+      "flavor": "The northern harrier, also known as the marsh hawk or ring-tailed hawk, is a bird of prey. It breeds throughout the northern parts of the Northern Hemisphere in Canada and the northernmost United States.",
+      "serial": "00d972c83f0f",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/circus-hudsonius/00d972c83f0f.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "035",
+      "name": "European Starling",
+      "sci": "Sturnus vulgaris",
+      "type": "song",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 32,
+      "detections": 2,
+      "best_conf": 0.8543,
+      "first_heard": "2026-06-08",
+      "attacks": [
+        {
+          "name": "Dawn Serenade",
+          "cost": 1,
+          "damage": 10
+        },
+        {
+          "name": "Trill Cascade",
+          "cost": 3,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/sturnus-vulgaris.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg/330px-Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Common_starling",
+      "flavor": "The common starling, also known simply as the starling in Great Britain and Ireland, and as the European starling in North America, is a medium-sized passerine bird in the starling family, Sturnidae. It is about 20 cm (8 in) long and has glossy black plumage with a metallic sheen, which is speckled with white at som...",
+      "serial": "a347560d05c7",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/sturnus-vulgaris/a347560d05c7.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "036",
+      "name": "Common Nighthawk",
+      "sci": "Chordeiles minor",
+      "type": "sky",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 42,
+      "detections": 12,
+      "best_conf": 0.84,
+      "first_heard": "2026-06-10",
+      "attacks": [
+        {
+          "name": "Stoop Dive",
+          "cost": 1,
+          "damage": 10
+        },
+        {
+          "name": "Talon Lock",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/chordeiles-minor.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Common_Nighthawk_%2814428313550%29.jpg/330px-Common_Nighthawk_%2814428313550%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Common_nighthawk",
+      "flavor": "The common nighthawk or bullbat is a medium-sized crepuscular or nocturnal bird of the Americas within the nightjar (Caprimulgidae) family, whose presence and identity are best revealed by its vocalization. Typically dark, displaying cryptic colouration and intricate patterns, this bird is difficult to spot with the...",
+      "serial": "f7802915fb68",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/chordeiles-minor/f7802915fb68.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "037",
+      "name": "Common Loon",
+      "sci": "Gavia immer",
+      "type": "aqua",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 32,
+      "detections": 2,
+      "best_conf": 0.8138,
+      "first_heard": "2026-06-11",
+      "attacks": [
+        {
+          "name": "Plunge",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Reed Hide",
+          "cost": 2,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/gavia-immer.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg/330px-Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Common_loon",
+      "flavor": "The common loon or great northern diver is a large member of the loon, or diver, family of birds. Breeding adults have a plumage that includes a broad black head and neck with a greenish, purplish, or bluish sheen, blackish or blackish-grey upperparts, and pure white underparts except some black on the undertail cov...",
+      "serial": "f99f3ba285ce",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/gavia-immer/f99f3ba285ce.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "038",
+      "name": "Brown Creeper",
+      "sci": "Certhia americana",
+      "type": "wild",
+      "rarity": {
+        "tier": "rare",
+        "stars": 2,
+        "elusive": true
+      },
+      "hp": 31,
+      "detections": 1,
+      "best_conf": 0.9518,
+      "first_heard": "2026-06-11",
+      "attacks": [
+        {
+          "name": "Brush Dash",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Flush",
+          "cost": 2,
+          "damage": 80
+        }
+      ],
+      "spectrogram": "assets/spectrograms/certhia-americana.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brown_creeper_%28Certhia_americana%29_in_Center_City%2C_Philadelphia%2C_PA%2C_USA.png/330px-Brown_creeper_%28Certhia_americana%29_in_Center_City%2C_Philadelphia%2C_PA%2C_USA.png",
+      "wiki_url": "https://en.wikipedia.org/wiki/Brown_creeper",
+      "flavor": "The brown creeper, also known as the American treecreeper, is a small songbird, the only North American member of the treecreeper family Certhiidae.",
+      "serial": "6a8e4776416e",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/certhia-americana/6a8e4776416e.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "039",
+      "name": "White-breasted Nuthatch",
+      "sci": "Sitta carolinensis",
+      "type": "tiny",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": true
+      },
+      "hp": 31,
+      "detections": 1,
+      "best_conf": 0.847,
+      "first_heard": "2026-06-11",
+      "attacks": [
+        {
+          "name": "Upside Cling",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Chickadee Scold",
+          "cost": 3,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/sitta-carolinensis.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/White-breasted_nuthatch_%2826471%29.jpg/330px-White-breasted_nuthatch_%2826471%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/White-breasted_nuthatch",
+      "flavor": "The white-breasted nuthatch is a species of bird in the nuthatch family Sittidae. It is a medium-sized nuthatch, measuring approximately 15.5 cm (6.1 in) in length. Coloration varies somewhat along the species' range, but the upperparts are light blue-gray, with a black crown and nape in males, while females have a...",
+      "serial": "8fa900dfa0db",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/sitta-carolinensis/8fa900dfa0db.json"
     }
   ],
   "frames": [
@@ -1038,9 +1412,33 @@
     },
     {
       "date": "2026-06-07",
-      "sha8": "5d27132e6b22",
-      "detections": 111,
-      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-07/5d27132e6b22.json"
+      "sha8": "3ecdbcd6c85d",
+      "detections": 297,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-07/3ecdbcd6c85d.json"
+    },
+    {
+      "date": "2026-06-08",
+      "sha8": "c88bc2a257a1",
+      "detections": 224,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-08/c88bc2a257a1.json"
+    },
+    {
+      "date": "2026-06-09",
+      "sha8": "8dc18aca42f7",
+      "detections": 130,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-09/8dc18aca42f7.json"
+    },
+    {
+      "date": "2026-06-10",
+      "sha8": "50f52616f443",
+      "detections": 547,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-10/50f52616f443.json"
+    },
+    {
+      "date": "2026-06-11",
+      "sha8": "a81eb548c26c",
+      "detections": 428,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-11/a81eb548c26c.json"
     }
   ]
 }

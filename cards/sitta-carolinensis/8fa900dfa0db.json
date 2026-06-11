@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "039",
+  "name": "White-breasted Nuthatch",
+  "sci": "Sitta carolinensis",
+  "type": "tiny",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": true
+  },
+  "hp": 31,
+  "detections": 1,
+  "best_conf": 0.847,
+  "first_heard": "2026-06-11",
+  "attacks": [
+    {
+      "name": "Upside Cling",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Chickadee Scold",
+      "cost": 3,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/sitta-carolinensis.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/White-breasted_nuthatch_%2826471%29.jpg/330px-White-breasted_nuthatch_%2826471%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/White-breasted_nuthatch",
+  "flavor": "The white-breasted nuthatch is a species of bird in the nuthatch family Sittidae. It is a medium-sized nuthatch, measuring approximately 15.5 cm (6.1 in) in length. Coloration varies somewhat along the species' range, but the upperparts are light blue-gray, with a black crown and nape in males, while females have a..."
+}

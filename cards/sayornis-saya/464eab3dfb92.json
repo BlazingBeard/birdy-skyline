@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "029",
+  "name": "Say's Phoebe",
+  "sci": "Sayornis saya",
+  "type": "aerial",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 32,
+  "detections": 2,
+  "best_conf": 0.9096,
+  "first_heard": "2026-06-07",
+  "attacks": [
+    {
+      "name": "Perch Ambush",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Snap Strike",
+      "cost": 3,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/sayornis-saya.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sayornis_saya_GNP_01.jpg/330px-Sayornis_saya_GNP_01.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Say's_phoebe",
+  "flavor": "Say's phoebe is a passerine bird in the tyrant flycatcher family, Tyrannidae. A common bird across western North America, it prefers dry, desolate areas. It was named for Thomas Say, an American naturalist."
+}

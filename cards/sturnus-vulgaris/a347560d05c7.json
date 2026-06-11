@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "035",
+  "name": "European Starling",
+  "sci": "Sturnus vulgaris",
+  "type": "song",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 32,
+  "detections": 2,
+  "best_conf": 0.8543,
+  "first_heard": "2026-06-08",
+  "attacks": [
+    {
+      "name": "Dawn Serenade",
+      "cost": 1,
+      "damage": 10
+    },
+    {
+      "name": "Trill Cascade",
+      "cost": 3,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/sturnus-vulgaris.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg/330px-Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Common_starling",
+  "flavor": "The common starling, also known simply as the starling in Great Britain and Ireland, and as the European starling in North America, is a medium-sized passerine bird in the starling family, Sturnidae. It is about 20 cm (8 in) long and has glossy black plumage with a metallic sheen, which is speckled with white at som..."
+}

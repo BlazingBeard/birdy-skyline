@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "033",
+  "name": "Cassin's Vireo",
+  "sci": "Vireo cassinii",
+  "type": "song",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 34,
+  "detections": 4,
+  "best_conf": 0.8517,
+  "first_heard": "2026-06-08",
+  "attacks": [
+    {
+      "name": "Sweet Whistle",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Trill Cascade",
+      "cost": 4,
+      "damage": 80
+    }
+  ],
+  "spectrogram": "assets/spectrograms/vireo-cassinii.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cassin%27s_Vireo_Las_Cruces.jpg/330px-Cassin%27s_Vireo_Las_Cruces.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Cassin's_vireo",
+  "flavor": "Cassin's vireo is a small North American songbird, ranging from southern British Columbia in Canada through the western coastal states of the United States, including California, Oregon, and Washington. The Cassin's Vireo moves down Western United States forests in its migration. During its migration in early spring..."
+}

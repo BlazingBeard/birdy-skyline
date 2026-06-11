@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "038",
+  "name": "Brown Creeper",
+  "sci": "Certhia americana",
+  "type": "wild",
+  "rarity": {
+    "tier": "rare",
+    "stars": 2,
+    "elusive": true
+  },
+  "hp": 31,
+  "detections": 1,
+  "best_conf": 0.9518,
+  "first_heard": "2026-06-11",
+  "attacks": [
+    {
+      "name": "Brush Dash",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Flush",
+      "cost": 2,
+      "damage": 80
+    }
+  ],
+  "spectrogram": "assets/spectrograms/certhia-americana.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brown_creeper_%28Certhia_americana%29_in_Center_City%2C_Philadelphia%2C_PA%2C_USA.png/330px-Brown_creeper_%28Certhia_americana%29_in_Center_City%2C_Philadelphia%2C_PA%2C_USA.png",
+  "wiki_url": "https://en.wikipedia.org/wiki/Brown_creeper",
+  "flavor": "The brown creeper, also known as the American treecreeper, is a small songbird, the only North American member of the treecreeper family Certhiidae."
+}

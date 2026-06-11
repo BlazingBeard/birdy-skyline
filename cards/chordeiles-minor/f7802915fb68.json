@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "036",
+  "name": "Common Nighthawk",
+  "sci": "Chordeiles minor",
+  "type": "sky",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 42,
+  "detections": 12,
+  "best_conf": 0.84,
+  "first_heard": "2026-06-10",
+  "attacks": [
+    {
+      "name": "Stoop Dive",
+      "cost": 1,
+      "damage": 10
+    },
+    {
+      "name": "Talon Lock",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/chordeiles-minor.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Common_Nighthawk_%2814428313550%29.jpg/330px-Common_Nighthawk_%2814428313550%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Common_nighthawk",
+  "flavor": "The common nighthawk or bullbat is a medium-sized crepuscular or nocturnal bird of the Americas within the nightjar (Caprimulgidae) family, whose presence and identity are best revealed by its vocalization. Typically dark, displaying cryptic colouration and intricate patterns, this bird is difficult to spot with the..."
+}

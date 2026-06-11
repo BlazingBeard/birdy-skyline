@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "034",
+  "name": "Northern Harrier",
+  "sci": "Circus hudsonius",
+  "type": "sky",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 34,
+  "detections": 4,
+  "best_conf": 0.8746,
+  "first_heard": "2026-06-08",
+  "attacks": [
+    {
+      "name": "Thermal Soar",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Silent Glide",
+      "cost": 4,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/circus-hudsonius.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Circus_hudsonius%2C_male_perched%2C_Berkeley%2C_California_%28cropped%29.jpg/330px-Circus_hudsonius%2C_male_perched%2C_Berkeley%2C_California_%28cropped%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Northern_harrier",
+  "flavor": "The northern harrier, also known as the marsh hawk or ring-tailed hawk, is a bird of prey. It breeds throughout the northern parts of the Northern Hemisphere in Canada and the northernmost United States."
+}

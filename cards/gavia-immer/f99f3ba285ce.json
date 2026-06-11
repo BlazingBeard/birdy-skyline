@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "037",
+  "name": "Common Loon",
+  "sci": "Gavia immer",
+  "type": "aqua",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 32,
+  "detections": 2,
+  "best_conf": 0.8138,
+  "first_heard": "2026-06-11",
+  "attacks": [
+    {
+      "name": "Plunge",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Reed Hide",
+      "cost": 2,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/gavia-immer.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg/330px-Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Common_loon",
+  "flavor": "The common loon or great northern diver is a large member of the loon, or diver, family of birds. Breeding adults have a plumage that includes a broad black head and neck with a greenish, purplish, or bluish sheen, blackish or blackish-grey upperparts, and pure white underparts except some black on the undertail cov..."
+}

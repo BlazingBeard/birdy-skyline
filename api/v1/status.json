@@ -1,11 +1,11 @@
 {
   "schema": "rapp-static-api-status/1.0",
-  "generated": "2026-06-07T17:09:09Z",
+  "generated": "2026-06-11T19:19:58Z",
   "summary": {
-    "species": 28,
-    "frames": 12,
-    "detections": 1042,
-    "holo_rares": 8
+    "species": 39,
+    "frames": 16,
+    "detections": 2557,
+    "holo_rares": 12
   },
   "cards": [
     {
@@ -33,8 +33,8 @@
       "name": "California Scrub-Jay",
       "sci": "Aphelocoma californica",
       "type": "mind",
-      "rarity": "rare",
-      "serial": "3eb252657bf1"
+      "rarity": "holo-rare",
+      "serial": "0b5fa589196a"
     },
     {
       "name": "Black-headed Grosbeak",
@@ -96,8 +96,8 @@
       "name": "Western Tanager",
       "sci": "Piranga ludoviciana",
       "type": "song",
-      "rarity": "uncommon",
-      "serial": "ac80d7f94762"
+      "rarity": "rare",
+      "serial": "c5f46a459d77"
     },
     {
       "name": "Anna's Hummingbird",
@@ -152,8 +152,8 @@
       "name": "Purple Finch",
       "sci": "Haemorhous purpureus",
       "type": "song",
-      "rarity": "common",
-      "serial": "8a32c3a6c8c4"
+      "rarity": "rare",
+      "serial": "e0e6cbdbecd4"
     },
     {
       "name": "Band-tailed Pigeon",
@@ -194,8 +194,8 @@
       "name": "Townsend's Solitaire",
       "sci": "Myadestes townsendi",
       "type": "wild",
-      "rarity": "uncommon",
-      "serial": "f4215095217c"
+      "rarity": "holo-rare",
+      "serial": "e024938342c7"
     },
     {
       "name": "Chestnut-backed Chickadee",
@@ -203,6 +203,83 @@
       "type": "tiny",
       "rarity": "uncommon",
       "serial": "e8b068c6a505"
+    },
+    {
+      "name": "Say's Phoebe",
+      "sci": "Sayornis saya",
+      "type": "aerial",
+      "rarity": "uncommon",
+      "serial": "464eab3dfb92"
+    },
+    {
+      "name": "American Goldfinch",
+      "sci": "Spinus tristis",
+      "type": "song",
+      "rarity": "uncommon",
+      "serial": "1442f1a76ed2"
+    },
+    {
+      "name": "Red-tailed Hawk",
+      "sci": "Buteo jamaicensis",
+      "type": "sky",
+      "rarity": "common",
+      "serial": "ab2e0d373fb0"
+    },
+    {
+      "name": "Hutton's Vireo",
+      "sci": "Vireo huttoni",
+      "type": "song",
+      "rarity": "uncommon",
+      "serial": "59a528f8eb0b"
+    },
+    {
+      "name": "Cassin's Vireo",
+      "sci": "Vireo cassinii",
+      "type": "song",
+      "rarity": "uncommon",
+      "serial": "a1af9bfbecfb"
+    },
+    {
+      "name": "Northern Harrier",
+      "sci": "Circus hudsonius",
+      "type": "sky",
+      "rarity": "uncommon",
+      "serial": "00d972c83f0f"
+    },
+    {
+      "name": "European Starling",
+      "sci": "Sturnus vulgaris",
+      "type": "song",
+      "rarity": "uncommon",
+      "serial": "a347560d05c7"
+    },
+    {
+      "name": "Common Nighthawk",
+      "sci": "Chordeiles minor",
+      "type": "sky",
+      "rarity": "common",
+      "serial": "f7802915fb68"
+    },
+    {
+      "name": "Common Loon",
+      "sci": "Gavia immer",
+      "type": "aqua",
+      "rarity": "common",
+      "serial": "f99f3ba285ce"
+    },
+    {
+      "name": "Brown Creeper",
+      "sci": "Certhia americana",
+      "type": "wild",
+      "rarity": "rare",
+      "serial": "6a8e4776416e"
+    },
+    {
+      "name": "White-breasted Nuthatch",
+      "sci": "Sitta carolinensis",
+      "type": "tiny",
+      "rarity": "common",
+      "serial": "8fa900dfa0db"
     }
   ]
 }

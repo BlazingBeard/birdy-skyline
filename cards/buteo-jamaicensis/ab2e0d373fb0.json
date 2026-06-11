@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "031",
+  "name": "Red-tailed Hawk",
+  "sci": "Buteo jamaicensis",
+  "type": "sky",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 40,
+  "detections": 10,
+  "best_conf": 0.8158,
+  "first_heard": "2026-06-08",
+  "attacks": [
+    {
+      "name": "Talon Lock",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Silent Glide",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/buteo-jamaicensis.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg/330px-Red-tailed_Hawk_%2845812546121%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Red-tailed_hawk",
+  "flavor": "The red-tailed hawk is a bird of prey and one of the most common hawks in North America. In the United States, it is one of three species colloquially known as the \"chickenhawk\". The red-tailed hawk breeds throughout most of the continent, from western Alaska and northern Canada to as far south as Panama and the Wes..."
+}

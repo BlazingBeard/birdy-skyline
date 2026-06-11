@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "030",
+  "name": "American Goldfinch",
+  "sci": "Spinus tristis",
+  "type": "song",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 37,
+  "detections": 7,
+  "best_conf": 0.9097,
+  "first_heard": "2026-06-07",
+  "attacks": [
+    {
+      "name": "Counter-Sing",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Trill Cascade",
+      "cost": 2,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/spinus-tristis.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg/330px-Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_goldfinch",
+  "flavor": "The American goldfinch is a small North American bird in the finch family. It is migratory, ranging from mid-Alberta to North Carolina during the breeding season, and from just south of the Canada–United States border to Mexico during the winter."
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "032",
+  "name": "Hutton's Vireo",
+  "sci": "Vireo huttoni",
+  "type": "song",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 33,
+  "detections": 3,
+  "best_conf": 0.9437,
+  "first_heard": "2026-06-08",
+  "attacks": [
+    {
+      "name": "Dawn Serenade",
+      "cost": 1,
+      "damage": 10
+    },
+    {
+      "name": "Sweet Whistle",
+      "cost": 3,
+      "damage": 80
+    }
+  ],
+  "spectrogram": "assets/spectrograms/vireo-huttoni.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hutton%27s_Vireo_%2843379432594%29.jpg/330px-Hutton%27s_Vireo_%2843379432594%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Hutton's_vireo",
+  "flavor": "Hutton's vireo is a small songbird in the family Vireonidae, the vireos, greenlets, and shrike-babblers. It is found from southwestern Canada to Guatemala."
+}
