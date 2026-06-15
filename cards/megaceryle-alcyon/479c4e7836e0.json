@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "044",
+  "name": "Belted Kingfisher",
+  "sci": "Megaceryle alcyon",
+  "type": "wild",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": true
+  },
+  "hp": 31,
+  "detections": 1,
+  "best_conf": 0.8809,
+  "first_heard": "2026-06-13",
+  "attacks": [
+    {
+      "name": "Skulk",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Flush",
+      "cost": 4,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/megaceryle-alcyon.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BeltedKingfisherJG_Male.jpg/330px-BeltedKingfisherJG_Male.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Belted_kingfisher",
+  "flavor": "The belted kingfisher is a large, conspicuous water kingfisher, native to North America."
+}

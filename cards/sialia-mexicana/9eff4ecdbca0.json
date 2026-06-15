@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "040",
+  "name": "Western Bluebird",
+  "sci": "Sialia mexicana",
+  "type": "wild",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 48,
+  "detections": 18,
+  "best_conf": 0.8397,
+  "first_heard": "2026-06-11",
+  "attacks": [
+    {
+      "name": "Flush",
+      "cost": 1,
+      "damage": 30
+    },
+    {
+      "name": "Skulk",
+      "cost": 4,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/sialia-mexicana.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Western_bluebird_%28male%29.jpg/330px-Western_bluebird_%28male%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Western_bluebird",
+  "flavor": "The western bluebird is a small North American thrush."
+}

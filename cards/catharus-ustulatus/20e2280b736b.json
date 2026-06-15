@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "017",
+  "name": "Swainson's Thrush",
+  "sci": "Catharus ustulatus",
+  "type": "song",
+  "rarity": {
+    "tier": "holo-rare",
+    "stars": 3,
+    "elusive": false
+  },
+  "hp": 65,
+  "detections": 35,
+  "best_conf": 0.9934,
+  "first_heard": "2026-06-01",
+  "attacks": [
+    {
+      "name": "Trill Cascade",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Dawn Serenade",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/catharus-ustulatus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Catharus_ustulatus_-North_Dakota-8a.jpg/330px-Catharus_ustulatus_-North_Dakota-8a.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Swainson's_thrush",
+  "flavor": "Swainson's thrush, also called olive-backed thrush, russet-backed thrush, and salmonberry bird is a medium-sized thrush. It is a member of genus Catharus and is typical of it in terms of its subdued coloration and beautiful, ascending flute-like voice. Swainson's thrush was named after William Swainson, an English o..."
+}

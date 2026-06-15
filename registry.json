@@ -1,18 +1,18 @@
 {
   "schema": "rapp-static-api/1.0",
   "name": "birdy-skyline",
-  "generated": "2026-06-11T19:19:58Z",
+  "generated": "2026-06-15T13:53:03Z",
   "raw_base": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main",
   "summary": {
-    "species": 39,
-    "frames": 16,
-    "detections": 2557,
-    "holo_rares": 12
+    "species": 45,
+    "frames": 20,
+    "detections": 3945,
+    "holo_rares": 15
   },
   "badge": {
     "schemaVersion": 1,
     "label": "🐦 birds",
-    "message": "39 species",
+    "message": "45 species",
     "color": "brightgreen"
   },
   "cards": [
@@ -27,8 +27,8 @@
         "stars": 3,
         "elusive": false
       },
-      "hp": 323,
-      "detections": 293,
+      "hp": 376,
+      "detections": 346,
       "best_conf": 0.9938,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -61,8 +61,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 150,
-      "detections": 120,
+      "hp": 174,
+      "detections": 144,
       "best_conf": 0.9834,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -129,8 +129,8 @@
         "stars": 3,
         "elusive": false
       },
-      "hp": 51,
-      "detections": 21,
+      "hp": 66,
+      "detections": 36,
       "best_conf": 0.9969,
       "first_heard": "2026-05-25",
       "attacks": [
@@ -163,8 +163,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 152,
-      "detections": 122,
+      "hp": 199,
+      "detections": 169,
       "best_conf": 0.9755,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -197,8 +197,8 @@
         "stars": 3,
         "elusive": false
       },
-      "hp": 544,
-      "detections": 514,
+      "hp": 847,
+      "detections": 817,
       "best_conf": 0.9958,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -231,8 +231,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 241,
-      "detections": 211,
+      "hp": 311,
+      "detections": 281,
       "best_conf": 0.9704,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -299,8 +299,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 169,
-      "detections": 139,
+      "hp": 227,
+      "detections": 197,
       "best_conf": 0.9709,
       "first_heard": "2026-05-26",
       "attacks": [
@@ -367,8 +367,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 80,
-      "detections": 50,
+      "hp": 82,
+      "detections": 52,
       "best_conf": 0.9663,
       "first_heard": "2026-05-27",
       "attacks": [
@@ -401,8 +401,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 121,
-      "detections": 91,
+      "hp": 133,
+      "detections": 103,
       "best_conf": 0.9381,
       "first_heard": "2026-05-27",
       "attacks": [
@@ -435,9 +435,9 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 366,
-      "detections": 336,
-      "best_conf": 0.9698,
+      "hp": 646,
+      "detections": 616,
+      "best_conf": 0.9703,
       "first_heard": "2026-05-30",
       "attacks": [
         {
@@ -469,8 +469,8 @@
         "stars": 0,
         "elusive": false
       },
-      "hp": 41,
-      "detections": 11,
+      "hp": 42,
+      "detections": 12,
       "best_conf": 0.8315,
       "first_heard": "2026-05-30",
       "attacks": [
@@ -499,13 +499,13 @@
       "sci": "Contopus sordidulus",
       "type": "aerial",
       "rarity": {
-        "tier": "uncommon",
-        "stars": 1,
+        "tier": "rare",
+        "stars": 2,
         "elusive": false
       },
-      "hp": 65,
-      "detections": 35,
-      "best_conf": 0.9214,
+      "hp": 131,
+      "detections": 101,
+      "best_conf": 0.9676,
       "first_heard": "2026-05-30",
       "attacks": [
         {
@@ -523,8 +523,8 @@
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg/330px-Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/Western_wood_pewee",
       "flavor": "The western wood pewee is a small tyrant flycatcher.",
-      "serial": "e7e3ae4d62a9",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/contopus-sordidulus/e7e3ae4d62a9.json"
+      "serial": "ede2e6bb0e2c",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/contopus-sordidulus/ede2e6bb0e2c.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -537,8 +537,8 @@
         "stars": 0,
         "elusive": false
       },
-      "hp": 42,
-      "detections": 12,
+      "hp": 47,
+      "detections": 17,
       "best_conf": 0.8488,
       "first_heard": "2026-05-31",
       "attacks": [
@@ -567,13 +567,13 @@
       "sci": "Catharus ustulatus",
       "type": "song",
       "rarity": {
-        "tier": "uncommon",
-        "stars": 1,
+        "tier": "holo-rare",
+        "stars": 3,
         "elusive": false
       },
-      "hp": 43,
-      "detections": 13,
-      "best_conf": 0.9013,
+      "hp": 65,
+      "detections": 35,
+      "best_conf": 0.9934,
       "first_heard": "2026-06-01",
       "attacks": [
         {
@@ -591,8 +591,8 @@
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Catharus_ustulatus_-North_Dakota-8a.jpg/330px-Catharus_ustulatus_-North_Dakota-8a.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/Swainson's_thrush",
       "flavor": "Swainson's thrush, also called olive-backed thrush, russet-backed thrush, and salmonberry bird is a medium-sized thrush. It is a member of genus Catharus and is typical of it in terms of its subdued coloration and beautiful, ascending flute-like voice. Swainson's thrush was named after William Swainson, an English o...",
-      "serial": "b0c9ecf349a1",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/catharus-ustulatus/b0c9ecf349a1.json"
+      "serial": "20e2280b736b",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/catharus-ustulatus/20e2280b736b.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -605,8 +605,8 @@
         "stars": 0,
         "elusive": false
       },
-      "hp": 38,
-      "detections": 8,
+      "hp": 39,
+      "detections": 9,
       "best_conf": 0.8473,
       "first_heard": "2026-06-01",
       "attacks": [
@@ -639,8 +639,8 @@
         "stars": 0,
         "elusive": false
       },
-      "hp": 43,
-      "detections": 13,
+      "hp": 44,
+      "detections": 14,
       "best_conf": 0.849,
       "first_heard": "2026-06-01",
       "attacks": [
@@ -673,8 +673,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 97,
-      "detections": 67,
+      "hp": 133,
+      "detections": 103,
       "best_conf": 0.9498,
       "first_heard": "2026-06-02",
       "attacks": [
@@ -707,8 +707,8 @@
         "stars": 2,
         "elusive": false
       },
-      "hp": 104,
-      "detections": 74,
+      "hp": 262,
+      "detections": 232,
       "best_conf": 0.9652,
       "first_heard": "2026-06-02",
       "attacks": [
@@ -741,8 +741,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 42,
-      "detections": 12,
+      "hp": 45,
+      "detections": 15,
       "best_conf": 0.8625,
       "first_heard": "2026-06-03",
       "attacks": [
@@ -809,8 +809,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 36,
-      "detections": 6,
+      "hp": 49,
+      "detections": 19,
       "best_conf": 0.8627,
       "first_heard": "2026-06-06",
       "attacks": [
@@ -843,8 +843,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 38,
-      "detections": 8,
+      "hp": 39,
+      "detections": 9,
       "best_conf": 0.9407,
       "first_heard": "2026-06-07",
       "attacks": [
@@ -877,8 +877,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 33,
-      "detections": 3,
+      "hp": 35,
+      "detections": 5,
       "best_conf": 0.8702,
       "first_heard": "2026-06-07",
       "attacks": [
@@ -911,8 +911,8 @@
         "stars": 3,
         "elusive": false
       },
-      "hp": 267,
-      "detections": 237,
+      "hp": 352,
+      "detections": 322,
       "best_conf": 0.9992,
       "first_heard": "2026-06-07",
       "attacks": [
@@ -945,8 +945,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 34,
-      "detections": 4,
+      "hp": 35,
+      "detections": 5,
       "best_conf": 0.8704,
       "first_heard": "2026-06-07",
       "attacks": [
@@ -979,8 +979,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 32,
-      "detections": 2,
+      "hp": 33,
+      "detections": 3,
       "best_conf": 0.9096,
       "first_heard": "2026-06-07",
       "attacks": [
@@ -1009,13 +1009,13 @@
       "sci": "Spinus tristis",
       "type": "song",
       "rarity": {
-        "tier": "uncommon",
-        "stars": 1,
+        "tier": "rare",
+        "stars": 2,
         "elusive": false
       },
-      "hp": 37,
-      "detections": 7,
-      "best_conf": 0.9097,
+      "hp": 44,
+      "detections": 14,
+      "best_conf": 0.969,
       "first_heard": "2026-06-07",
       "attacks": [
         {
@@ -1033,8 +1033,8 @@
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg/330px-Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/American_goldfinch",
       "flavor": "The American goldfinch is a small North American bird in the finch family. It is migratory, ranging from mid-Alberta to North Carolina during the breeding season, and from just south of the Canada–United States border to Mexico during the winter.",
-      "serial": "1442f1a76ed2",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/spinus-tristis/1442f1a76ed2.json"
+      "serial": "0d2702db6472",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/spinus-tristis/0d2702db6472.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -1043,13 +1043,13 @@
       "sci": "Buteo jamaicensis",
       "type": "sky",
       "rarity": {
-        "tier": "common",
-        "stars": 0,
+        "tier": "uncommon",
+        "stars": 1,
         "elusive": false
       },
-      "hp": 40,
-      "detections": 10,
-      "best_conf": 0.8158,
+      "hp": 51,
+      "detections": 21,
+      "best_conf": 0.8746,
       "first_heard": "2026-06-08",
       "attacks": [
         {
@@ -1067,8 +1067,8 @@
       "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg/330px-Red-tailed_Hawk_%2845812546121%29.jpg",
       "wiki_url": "https://en.wikipedia.org/wiki/Red-tailed_hawk",
       "flavor": "The red-tailed hawk is a bird of prey and one of the most common hawks in North America. In the United States, it is one of three species colloquially known as the \"chickenhawk\". The red-tailed hawk breeds throughout most of the continent, from western Alaska and northern Canada to as far south as Panama and the Wes...",
-      "serial": "ab2e0d373fb0",
-      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/buteo-jamaicensis/ab2e0d373fb0.json"
+      "serial": "e3ac429f3d92",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/buteo-jamaicensis/e3ac429f3d92.json"
     },
     {
       "schema": "birdy-card/1.0",
@@ -1115,8 +1115,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 34,
-      "detections": 4,
+      "hp": 35,
+      "detections": 5,
       "best_conf": 0.8517,
       "first_heard": "2026-06-08",
       "attacks": [
@@ -1149,8 +1149,8 @@
         "stars": 1,
         "elusive": false
       },
-      "hp": 34,
-      "detections": 4,
+      "hp": 35,
+      "detections": 5,
       "best_conf": 0.8746,
       "first_heard": "2026-06-08",
       "attacks": [
@@ -1217,8 +1217,8 @@
         "stars": 0,
         "elusive": false
       },
-      "hp": 42,
-      "detections": 12,
+      "hp": 44,
+      "detections": 14,
       "best_conf": 0.84,
       "first_heard": "2026-06-10",
       "attacks": [
@@ -1251,8 +1251,8 @@
         "stars": 0,
         "elusive": false
       },
-      "hp": 32,
-      "detections": 2,
+      "hp": 33,
+      "detections": 3,
       "best_conf": 0.8138,
       "first_heard": "2026-06-11",
       "attacks": [
@@ -1283,10 +1283,10 @@
       "rarity": {
         "tier": "rare",
         "stars": 2,
-        "elusive": true
+        "elusive": false
       },
-      "hp": 31,
-      "detections": 1,
+      "hp": 32,
+      "detections": 2,
       "best_conf": 0.9518,
       "first_heard": "2026-06-11",
       "attacks": [
@@ -1341,6 +1341,210 @@
       "flavor": "The white-breasted nuthatch is a species of bird in the nuthatch family Sittidae. It is a medium-sized nuthatch, measuring approximately 15.5 cm (6.1 in) in length. Coloration varies somewhat along the species' range, but the upperparts are light blue-gray, with a black crown and nape in males, while females have a...",
       "serial": "8fa900dfa0db",
       "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/sitta-carolinensis/8fa900dfa0db.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "040",
+      "name": "Western Bluebird",
+      "sci": "Sialia mexicana",
+      "type": "wild",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 48,
+      "detections": 18,
+      "best_conf": 0.8397,
+      "first_heard": "2026-06-11",
+      "attacks": [
+        {
+          "name": "Flush",
+          "cost": 1,
+          "damage": 30
+        },
+        {
+          "name": "Skulk",
+          "cost": 4,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/sialia-mexicana.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Western_bluebird_%28male%29.jpg/330px-Western_bluebird_%28male%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Western_bluebird",
+      "flavor": "The western bluebird is a small North American thrush.",
+      "serial": "9eff4ecdbca0",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/sialia-mexicana/9eff4ecdbca0.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "041",
+      "name": "Varied Thrush",
+      "sci": "Ixoreus naevius",
+      "type": "song",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 49,
+      "detections": 19,
+      "best_conf": 0.8061,
+      "first_heard": "2026-06-11",
+      "attacks": [
+        {
+          "name": "Sweet Whistle",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Counter-Sing",
+          "cost": 3,
+          "damage": 80
+        }
+      ],
+      "spectrogram": "assets/spectrograms/ixoreus-naevius.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Varied_thrush_%2873976%29.jpg/330px-Varied_thrush_%2873976%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Varied_thrush",
+      "flavor": "The varied thrush is a member of the thrush family, Turdidae. It is the only species in the monotypic genus Ixoreus.",
+      "serial": "0cb1e448b00c",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/ixoreus-naevius/0cb1e448b00c.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "042",
+      "name": "Pacific Wren",
+      "sci": "Troglodytes pacificus",
+      "type": "tiny",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 33,
+      "detections": 3,
+      "best_conf": 0.8234,
+      "first_heard": "2026-06-11",
+      "attacks": [
+        {
+          "name": "Chickadee Scold",
+          "cost": 1,
+          "damage": 10
+        },
+        {
+          "name": "Seed Stash",
+          "cost": 2,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/troglodytes-pacificus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pacific_Wren_-_Vancouver_Is._%286842161146%29.jpg/330px-Pacific_Wren_-_Vancouver_Is._%286842161146%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Pacific_wren",
+      "flavor": "The Pacific wren is a very small North American bird and a member of the mainly New World wren family Troglodytidae. The species was formerly lumped together with either the winter wren of eastern North America alone, or also with the Eurasian wren of Eurasia, then under the merged name of northern wren with the sci...",
+      "serial": "8175ce28010f",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/troglodytes-pacificus/8175ce28010f.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "043",
+      "name": "Northern Flicker",
+      "sci": "Colaptes auratus",
+      "type": "drum",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": false
+      },
+      "hp": 49,
+      "detections": 19,
+      "best_conf": 0.8586,
+      "first_heard": "2026-06-12",
+      "attacks": [
+        {
+          "name": "Snag Drill",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Bark Volley",
+          "cost": 2,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/colaptes-auratus.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Northern_yellow-shafted_flicker_male_%2833737%29_%28cropped%29.jpg/330px-Northern_yellow-shafted_flicker_male_%2833737%29_%28cropped%29.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Northern_flicker",
+      "flavor": "The northern flicker or common flicker is a medium-sized bird of the woodpecker family. It is native to most of North America, parts of Central America, Cuba, and the Cayman Islands, and is one of the few woodpecker species that migrate. Over 100 common names for the northern flicker are known, including yellowhamme...",
+      "serial": "76d0b17bbfe1",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/colaptes-auratus/76d0b17bbfe1.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "044",
+      "name": "Belted Kingfisher",
+      "sci": "Megaceryle alcyon",
+      "type": "wild",
+      "rarity": {
+        "tier": "uncommon",
+        "stars": 1,
+        "elusive": true
+      },
+      "hp": 31,
+      "detections": 1,
+      "best_conf": 0.8809,
+      "first_heard": "2026-06-13",
+      "attacks": [
+        {
+          "name": "Skulk",
+          "cost": 2,
+          "damage": 40
+        },
+        {
+          "name": "Flush",
+          "cost": 4,
+          "damage": 60
+        }
+      ],
+      "spectrogram": "assets/spectrograms/megaceryle-alcyon.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BeltedKingfisherJG_Male.jpg/330px-BeltedKingfisherJG_Male.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Belted_kingfisher",
+      "flavor": "The belted kingfisher is a large, conspicuous water kingfisher, native to North America.",
+      "serial": "479c4e7836e0",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/megaceryle-alcyon/479c4e7836e0.json"
+    },
+    {
+      "schema": "birdy-card/1.0",
+      "pokedex": "045",
+      "name": "Greater Yellowlegs",
+      "sci": "Tringa melanoleuca",
+      "type": "sky",
+      "rarity": {
+        "tier": "common",
+        "stars": 0,
+        "elusive": false
+      },
+      "hp": 37,
+      "detections": 7,
+      "best_conf": 0.8047,
+      "first_heard": "2026-06-14",
+      "attacks": [
+        {
+          "name": "Talon Lock",
+          "cost": 2,
+          "damage": 20
+        },
+        {
+          "name": "Thermal Soar",
+          "cost": 3,
+          "damage": 40
+        }
+      ],
+      "spectrogram": "assets/spectrograms/tringa-melanoleuca.png",
+      "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png/330px-Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png",
+      "wiki_url": "https://en.wikipedia.org/wiki/Greater_yellowlegs",
+      "flavor": "The greater yellowlegs is a large shorebird in the family Scolopacidae. It breeds in central Canada and southern Alaska and winters in southern North America, Central America, the West Indies and South America.",
+      "serial": "20cf5349c0f9",
+      "serial_url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/cards/tringa-melanoleuca/20cf5349c0f9.json"
     }
   ],
   "frames": [
@@ -1436,9 +1640,33 @@
     },
     {
       "date": "2026-06-11",
-      "sha8": "a81eb548c26c",
-      "detections": 428,
-      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-11/a81eb548c26c.json"
+      "sha8": "355fe45e53c3",
+      "detections": 867,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-11/355fe45e53c3.json"
+    },
+    {
+      "date": "2026-06-12",
+      "sha8": "3a53e181651d",
+      "detections": 423,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-12/3a53e181651d.json"
+    },
+    {
+      "date": "2026-06-13",
+      "sha8": "95e2c0b440eb",
+      "detections": 102,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-13/95e2c0b440eb.json"
+    },
+    {
+      "date": "2026-06-14",
+      "sha8": "d65f736a28fe",
+      "detections": 246,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-14/d65f736a28fe.json"
+    },
+    {
+      "date": "2026-06-15",
+      "sha8": "261f19f1b421",
+      "detections": 178,
+      "url": "https://raw.githubusercontent.com/BlazingBeard/birdy-skyline/main/frames/2026-06-15/261f19f1b421.json"
     }
   ]
 }

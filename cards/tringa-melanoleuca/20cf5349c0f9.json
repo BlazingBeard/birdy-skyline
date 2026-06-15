@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "045",
+  "name": "Greater Yellowlegs",
+  "sci": "Tringa melanoleuca",
+  "type": "sky",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 37,
+  "detections": 7,
+  "best_conf": 0.8047,
+  "first_heard": "2026-06-14",
+  "attacks": [
+    {
+      "name": "Talon Lock",
+      "cost": 2,
+      "damage": 20
+    },
+    {
+      "name": "Thermal Soar",
+      "cost": 3,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/tringa-melanoleuca.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png/330px-Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png",
+  "wiki_url": "https://en.wikipedia.org/wiki/Greater_yellowlegs",
+  "flavor": "The greater yellowlegs is a large shorebird in the family Scolopacidae. It breeds in central Canada and southern Alaska and winters in southern North America, Central America, the West Indies and South America."
+}

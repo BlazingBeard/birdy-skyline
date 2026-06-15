@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "042",
+  "name": "Pacific Wren",
+  "sci": "Troglodytes pacificus",
+  "type": "tiny",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 33,
+  "detections": 3,
+  "best_conf": 0.8234,
+  "first_heard": "2026-06-11",
+  "attacks": [
+    {
+      "name": "Chickadee Scold",
+      "cost": 1,
+      "damage": 10
+    },
+    {
+      "name": "Seed Stash",
+      "cost": 2,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/troglodytes-pacificus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pacific_Wren_-_Vancouver_Is._%286842161146%29.jpg/330px-Pacific_Wren_-_Vancouver_Is._%286842161146%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Pacific_wren",
+  "flavor": "The Pacific wren is a very small North American bird and a member of the mainly New World wren family Troglodytidae. The species was formerly lumped together with either the winter wren of eastern North America alone, or also with the Eurasian wren of Eurasia, then under the merged name of northern wren with the sci..."
+}

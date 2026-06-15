@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "041",
+  "name": "Varied Thrush",
+  "sci": "Ixoreus naevius",
+  "type": "song",
+  "rarity": {
+    "tier": "common",
+    "stars": 0,
+    "elusive": false
+  },
+  "hp": 49,
+  "detections": 19,
+  "best_conf": 0.8061,
+  "first_heard": "2026-06-11",
+  "attacks": [
+    {
+      "name": "Sweet Whistle",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Counter-Sing",
+      "cost": 3,
+      "damage": 80
+    }
+  ],
+  "spectrogram": "assets/spectrograms/ixoreus-naevius.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Varied_thrush_%2873976%29.jpg/330px-Varied_thrush_%2873976%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Varied_thrush",
+  "flavor": "The varied thrush is a member of the thrush family, Turdidae. It is the only species in the monotypic genus Ixoreus."
+}

@@ -1,11 +1,11 @@
 {
   "schema": "rapp-static-api-status/1.0",
-  "generated": "2026-06-11T19:19:58Z",
+  "generated": "2026-06-15T13:53:03Z",
   "summary": {
-    "species": 39,
-    "frames": 16,
-    "detections": 2557,
-    "holo_rares": 12
+    "species": 45,
+    "frames": 20,
+    "detections": 3945,
+    "holo_rares": 15
   },
   "cards": [
     {
@@ -110,8 +110,8 @@
       "name": "Western Wood-Pewee",
       "sci": "Contopus sordidulus",
       "type": "aerial",
-      "rarity": "uncommon",
-      "serial": "e7e3ae4d62a9"
+      "rarity": "rare",
+      "serial": "ede2e6bb0e2c"
     },
     {
       "name": "Evening Grosbeak",
@@ -124,8 +124,8 @@
       "name": "Swainson's Thrush",
       "sci": "Catharus ustulatus",
       "type": "song",
-      "rarity": "uncommon",
-      "serial": "b0c9ecf349a1"
+      "rarity": "holo-rare",
+      "serial": "20e2280b736b"
     },
     {
       "name": "Black-capped Chickadee",
@@ -215,15 +215,15 @@
       "name": "American Goldfinch",
       "sci": "Spinus tristis",
       "type": "song",
-      "rarity": "uncommon",
-      "serial": "1442f1a76ed2"
+      "rarity": "rare",
+      "serial": "0d2702db6472"
     },
     {
       "name": "Red-tailed Hawk",
       "sci": "Buteo jamaicensis",
       "type": "sky",
-      "rarity": "common",
-      "serial": "ab2e0d373fb0"
+      "rarity": "uncommon",
+      "serial": "e3ac429f3d92"
     },
     {
       "name": "Hutton's Vireo",
@@ -280,6 +280,48 @@
       "type": "tiny",
       "rarity": "common",
       "serial": "8fa900dfa0db"
+    },
+    {
+      "name": "Western Bluebird",
+      "sci": "Sialia mexicana",
+      "type": "wild",
+      "rarity": "common",
+      "serial": "9eff4ecdbca0"
+    },
+    {
+      "name": "Varied Thrush",
+      "sci": "Ixoreus naevius",
+      "type": "song",
+      "rarity": "common",
+      "serial": "0cb1e448b00c"
+    },
+    {
+      "name": "Pacific Wren",
+      "sci": "Troglodytes pacificus",
+      "type": "tiny",
+      "rarity": "common",
+      "serial": "8175ce28010f"
+    },
+    {
+      "name": "Northern Flicker",
+      "sci": "Colaptes auratus",
+      "type": "drum",
+      "rarity": "uncommon",
+      "serial": "76d0b17bbfe1"
+    },
+    {
+      "name": "Belted Kingfisher",
+      "sci": "Megaceryle alcyon",
+      "type": "wild",
+      "rarity": "uncommon",
+      "serial": "479c4e7836e0"
+    },
+    {
+      "name": "Greater Yellowlegs",
+      "sci": "Tringa melanoleuca",
+      "type": "sky",
+      "rarity": "common",
+      "serial": "20cf5349c0f9"
     }
   ]
 }

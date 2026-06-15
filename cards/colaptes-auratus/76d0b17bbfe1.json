@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "043",
+  "name": "Northern Flicker",
+  "sci": "Colaptes auratus",
+  "type": "drum",
+  "rarity": {
+    "tier": "uncommon",
+    "stars": 1,
+    "elusive": false
+  },
+  "hp": 49,
+  "detections": 19,
+  "best_conf": 0.8586,
+  "first_heard": "2026-06-12",
+  "attacks": [
+    {
+      "name": "Snag Drill",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Bark Volley",
+      "cost": 2,
+      "damage": 60
+    }
+  ],
+  "spectrogram": "assets/spectrograms/colaptes-auratus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Northern_yellow-shafted_flicker_male_%2833737%29_%28cropped%29.jpg/330px-Northern_yellow-shafted_flicker_male_%2833737%29_%28cropped%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Northern_flicker",
+  "flavor": "The northern flicker or common flicker is a medium-sized bird of the woodpecker family. It is native to most of North America, parts of Central America, Cuba, and the Cayman Islands, and is one of the few woodpecker species that migrate. Over 100 common names for the northern flicker are known, including yellowhamme..."
+}

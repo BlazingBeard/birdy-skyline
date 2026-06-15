@@ -1,0 +1,32 @@
+{
+  "schema": "birdy-card/1.0",
+  "pokedex": "015",
+  "name": "Western Wood-Pewee",
+  "sci": "Contopus sordidulus",
+  "type": "aerial",
+  "rarity": {
+    "tier": "rare",
+    "stars": 2,
+    "elusive": false
+  },
+  "hp": 131,
+  "detections": 101,
+  "best_conf": 0.9676,
+  "first_heard": "2026-05-30",
+  "attacks": [
+    {
+      "name": "Wing Flick",
+      "cost": 2,
+      "damage": 40
+    },
+    {
+      "name": "Snap Strike",
+      "cost": 3,
+      "damage": 40
+    }
+  ],
+  "spectrogram": "assets/spectrograms/contopus-sordidulus.png",
+  "art": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg/330px-Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg",
+  "wiki_url": "https://en.wikipedia.org/wiki/Western_wood_pewee",
+  "flavor": "The western wood pewee is a small tyrant flycatcher."
+}
